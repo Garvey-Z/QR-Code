@@ -104,7 +104,7 @@ ADDED from /Users/apple/homegit/456/app/src/main/AndroidManifest.xml:46:5-88:16
 	android:clearTaskOnLaunch
 		ADDED from /Users/apple/homegit/456/app/src/main/AndroidManifest.xml:48:15-47
 	android:screenOrientation
-		ADDED from /Users/apple/homegit/456/app/src/main/AndroidManifest.xml:47:15-58
+		ADDED from /Users/apple/homegit/456/app/src/main/AndroidManifest.xml:47:15-51
 	android:stateNotNeeded
 		ADDED from /Users/apple/homegit/456/app/src/main/AndroidManifest.xml:49:15-44
 	android:windowSoftInputMode

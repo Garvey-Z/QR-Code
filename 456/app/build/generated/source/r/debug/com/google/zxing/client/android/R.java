@@ -18,15 +18,16 @@ public final class R {
     public static final class color {
         public static final int contents_text=0x7f080000;
         public static final int encode_view=0x7f080001;
-        public static final int possible_result_points=0x7f080002;
-        public static final int result_minor_text=0x7f080003;
-        public static final int result_points=0x7f080004;
-        public static final int result_text=0x7f080005;
-        public static final int result_view=0x7f080006;
-        public static final int status_text=0x7f080007;
-        public static final int transparent=0x7f080008;
-        public static final int viewfinder_laser=0x7f080009;
-        public static final int viewfinder_mask=0x7f08000a;
+        public static final int green=0x7f080002;
+        public static final int possible_result_points=0x7f080003;
+        public static final int result_minor_text=0x7f080004;
+        public static final int result_points=0x7f080005;
+        public static final int result_text=0x7f080006;
+        public static final int result_view=0x7f080007;
+        public static final int status_text=0x7f080008;
+        public static final int transparent=0x7f080009;
+        public static final int viewfinder_laser=0x7f08000a;
+        public static final int viewfinder_mask=0x7f08000b;
     }
     public static final class dimen {
         public static final int half_padding=0x7f090000;
@@ -34,7 +35,8 @@ public final class R {
     }
     public static final class drawable {
         public static final int launcher_icon=0x7f020000;
-        public static final int share_via_barcode=0x7f020001;
+        public static final int line=0x7f020001;
+        public static final int share_via_barcode=0x7f020002;
     }
     public static final class id {
         public static final int app_picker_list_item_icon=0x7f0a0007;
@@ -90,10 +92,11 @@ public final class R {
         public static final int encode=0x7f030003;
         public static final int help=0x7f030004;
         public static final int history_list_item=0x7f030005;
-        public static final int search_book_contents=0x7f030006;
-        public static final int search_book_contents_header=0x7f030007;
-        public static final int search_book_contents_list_item=0x7f030008;
-        public static final int share=0x7f030009;
+        public static final int main_activity=0x7f030006;
+        public static final int search_book_contents=0x7f030007;
+        public static final int search_book_contents_header=0x7f030008;
+        public static final int search_book_contents_list_item=0x7f030009;
+        public static final int share=0x7f03000a;
     }
     public static final class menu {
         public static final int capture=0x7f0c0000;

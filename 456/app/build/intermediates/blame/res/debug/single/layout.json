@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/layout/main_activity.xml",
+        "source": "/Users/apple/homegit/456/app/src/main/res/layout/main_activity.xml"
+    },
+    {
         "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/layout/search_book_contents_header.xml",
         "source": "/Users/apple/homegit/456/app/src/main/res/layout/search_book_contents_header.xml"
     },

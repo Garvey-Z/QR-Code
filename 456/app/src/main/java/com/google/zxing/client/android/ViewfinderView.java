@@ -26,6 +26,7 @@ import android.graphics.Bitmap;
 import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.graphics.Rect;
+import android.graphics.drawable.Drawable;
 import android.util.AttributeSet;
 import android.view.View;
 
@@ -56,7 +57,9 @@ public final class ViewfinderView extends View {
   private int scannerAlpha;
   private List<ResultPoint> possibleResultPoints;
   private List<ResultPoint> lastPossibleResultPoints;
-
+  private int i = 0;
+  private  Drawable lineDrawable;
+  private Rect mRect;//扫描线填充边界
   // This constructor is used when the class is built from an XML resource.
   public ViewfinderView(Context context, AttributeSet attrs) {
     super(context, attrs);
@@ -64,6 +67,8 @@ public final class ViewfinderView extends View {
     // Initialize these once for performance rather than calling them every time in onDraw().
     paint = new Paint(Paint.ANTI_ALIAS_FLAG);
     Resources resources = getResources();
+    lineDrawable = resources.getDrawable(R.drawable.line);
+    mRect = new Rect();
     maskColor = resources.getColor(R.color.viewfinder_mask);
     resultColor = resources.getColor(R.color.result_view);
     laserColor = resources.getColor(R.color.viewfinder_laser);
@@ -105,12 +110,47 @@ public final class ViewfinderView extends View {
     } else {
 
       // Draw a red "laser scanner" line through the middle to show decoding is active
-      paint.setColor(laserColor);
-      paint.setAlpha(SCANNER_ALPHA[scannerAlpha]);
-      scannerAlpha = (scannerAlpha + 1) % SCANNER_ALPHA.length;
-      int middle = frame.height() / 2 + frame.top;
-      canvas.drawRect(frame.left + 2, middle - 1, frame.right - 1, middle + 2, paint);
-      
+//      paint.setColor(laserColor);
+//      paint.setAlpha(SCANNER_ALPHA[scannerAlpha]);
+//      scannerAlpha = (scannerAlpha + 1) % SCANNER_ALPHA.length;
+//      int middle = frame.height() / 2 + frame.top;
+//      canvas.drawRect(frame.left + 2, middle - 1, frame.right - 1, middle + 2, paint);
+
+      //画角
+      //画出四个角
+      paint.setColor(getResources().getColor(R.color.green));
+
+//左上角
+      canvas.drawRect(frame.left,frame.top, frame.left + 15,frame.top+ 5,paint);
+      canvas.drawRect(frame.left,frame.top, frame.left + 5,frame.top + 15,paint);
+
+//右上角
+      canvas.drawRect(frame.right- 15,frame.top, frame.right,frame.top + 5,paint);
+      canvas.drawRect(frame.right- 5,frame.top, frame.right,frame.top + 15,paint);
+
+//左下角
+      canvas.drawRect(frame.left,frame.bottom - 5,frame.left + 15,frame.bottom,paint);
+      canvas.drawRect(frame.left,frame.bottom - 15,frame.left + 5,frame.bottom,paint);
+
+//右下角
+      canvas.drawRect(frame.right- 15,frame.bottom - 5,frame.right,frame.bottom, paint);
+      canvas.drawRect(frame.right- 5,frame.bottom - 15,frame.right,frame.bottom, paint);
+
+
+      //扫描线
+      if((i += 5) < frame.bottom - frame.top) {
+        mRect.set(frame.left - 6, frame.top + i - 6, frame.right + 6, frame.top + 6 + i);
+
+        lineDrawable.setBounds(mRect);
+        lineDrawable.draw(canvas);
+        invalidate();
+      }else {
+        i = 0;
+      }
+     // postInvalidateDelayed(ANIMATION_DELAY, frame.left, frame.top,
+       //       frame.right, frame.bottom);
+
+
       float scaleX = frame.width() / (float) previewFrame.width();
       float scaleY = frame.height() / (float) previewFrame.height();
 
@@ -154,7 +194,14 @@ public final class ViewfinderView extends View {
                             frame.right + POINT_SIZE,
                             frame.bottom + POINT_SIZE);
     }
+
+
   }
+
+  //扫描线
+
+
+
 
   public void drawViewfinder() {
     Bitmap resultBitmap = this.resultBitmap;
@@ -186,5 +233,7 @@ public final class ViewfinderView extends View {
       }
     }
   }
+
+
 
 }
