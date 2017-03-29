@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/apple/homegit/456/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml",
+        "outputFile": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ja\\values-ja.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 98
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 2,
-                        "startOffset": 632,
+                        "startOffset": 649,
                         "endColumn": 45,
-                        "endOffset": 675
+                        "endOffset": 692
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 151
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 2,
-                        "startOffset": 678,
+                        "startOffset": 696,
                         "endColumn": 50,
-                        "endOffset": 726
+                        "endOffset": 744
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 207
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 2,
-                        "startOffset": 729,
+                        "startOffset": 748,
                         "endColumn": 53,
-                        "endOffset": 780
+                        "endOffset": 799
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 261
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 2,
-                        "startOffset": 783,
+                        "startOffset": 803,
                         "endColumn": 51,
-                        "endOffset": 832
+                        "endOffset": 852
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 315
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 2,
-                        "startOffset": 835,
+                        "startOffset": 856,
                         "endColumn": 51,
-                        "endOffset": 884
+                        "endOffset": 905
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 368
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 2,
-                        "startOffset": 887,
+                        "startOffset": 909,
                         "endColumn": 50,
-                        "endOffset": 935
+                        "endOffset": 957
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 416
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 2,
-                        "startOffset": 938,
+                        "startOffset": 961,
                         "endColumn": 45,
-                        "endOffset": 981
+                        "endOffset": 1004
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 481
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 2,
-                        "startOffset": 984,
+                        "startOffset": 1008,
                         "endColumn": 62,
-                        "endOffset": 1044
+                        "endOffset": 1068
                     }
                 }
             },
@@ -163,13 +163,13 @@
                     "endOffset": 528
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 2,
-                        "startOffset": 1047,
+                        "startOffset": 1072,
                         "endColumn": 44,
-                        "endOffset": 1089
+                        "endOffset": 1114
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 576
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 2,
-                        "startOffset": 1092,
+                        "startOffset": 1118,
                         "endColumn": 45,
-                        "endOffset": 1135
+                        "endOffset": 1161
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 632
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 2,
-                        "startOffset": 1138,
+                        "startOffset": 1165,
                         "endColumn": 53,
-                        "endOffset": 1189
+                        "endOffset": 1216
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 678
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 2,
-                        "startOffset": 1192,
+                        "startOffset": 1220,
                         "endColumn": 43,
-                        "endOffset": 1233
+                        "endOffset": 1261
                     }
                 }
             },
@@ -239,13 +239,13 @@
                     "endOffset": 719
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 2,
-                        "startOffset": 1236,
+                        "startOffset": 1265,
                         "endColumn": 38,
-                        "endOffset": 1272
+                        "endOffset": 1301
                     }
                 }
             },
@@ -258,13 +258,13 @@
                     "endOffset": 775
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 2,
-                        "startOffset": 1275,
+                        "startOffset": 1305,
                         "endColumn": 53,
-                        "endOffset": 1326
+                        "endOffset": 1356
                     }
                 }
             },
@@ -277,13 +277,13 @@
                     "endOffset": 830
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 2,
-                        "startOffset": 1329,
+                        "startOffset": 1360,
                         "endColumn": 52,
-                        "endOffset": 1379
+                        "endOffset": 1410
                     }
                 }
             },
@@ -296,13 +296,13 @@
                     "endOffset": 895
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 2,
-                        "startOffset": 1382,
+                        "startOffset": 1414,
                         "endColumn": 62,
-                        "endOffset": 1442
+                        "endOffset": 1474
                     }
                 }
             },
@@ -315,13 +315,13 @@
                     "endOffset": 947
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 2,
-                        "startOffset": 1445,
+                        "startOffset": 1478,
                         "endColumn": 49,
-                        "endOffset": 1492
+                        "endOffset": 1525
                     }
                 }
             },
@@ -334,13 +334,13 @@
                     "endOffset": 1004
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 2,
-                        "startOffset": 1495,
+                        "startOffset": 1529,
                         "endColumn": 54,
-                        "endOffset": 1547
+                        "endOffset": 1581
                     }
                 }
             },
@@ -353,13 +353,13 @@
                     "endOffset": 1061
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 2,
-                        "startOffset": 1550,
+                        "startOffset": 1585,
                         "endColumn": 54,
-                        "endOffset": 1602
+                        "endOffset": 1637
                     }
                 }
             },
@@ -372,13 +372,13 @@
                     "endOffset": 1116
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 2,
-                        "startOffset": 1605,
+                        "startOffset": 1641,
                         "endColumn": 52,
-                        "endOffset": 1655
+                        "endOffset": 1691
                     }
                 }
             },
@@ -391,13 +391,13 @@
                     "endOffset": 1178
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 2,
-                        "startOffset": 1658,
+                        "startOffset": 1695,
                         "endColumn": 59,
-                        "endOffset": 1715
+                        "endOffset": 1752
                     }
                 }
             },
@@ -410,13 +410,13 @@
                     "endOffset": 1234
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 2,
-                        "startOffset": 1718,
+                        "startOffset": 1756,
                         "endColumn": 53,
-                        "endOffset": 1769
+                        "endOffset": 1807
                     }
                 }
             },
@@ -429,13 +429,13 @@
                     "endOffset": 1284
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 2,
-                        "startOffset": 1772,
+                        "startOffset": 1811,
                         "endColumn": 47,
-                        "endOffset": 1817
+                        "endOffset": 1856
                     }
                 }
             },
@@ -448,13 +448,13 @@
                     "endOffset": 1330
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 2,
-                        "startOffset": 1820,
+                        "startOffset": 1860,
                         "endColumn": 43,
-                        "endOffset": 1861
+                        "endOffset": 1901
                     }
                 }
             },
@@ -467,13 +467,13 @@
                     "endOffset": 1386
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 2,
-                        "startOffset": 1864,
+                        "startOffset": 1905,
                         "endColumn": 53,
-                        "endOffset": 1915
+                        "endOffset": 1956
                     }
                 }
             },
@@ -486,13 +486,13 @@
                     "endOffset": 1436
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 2,
-                        "startOffset": 1918,
+                        "startOffset": 1960,
                         "endColumn": 47,
-                        "endOffset": 1963
+                        "endOffset": 2005
                     }
                 }
             },
@@ -505,13 +505,13 @@
                     "endOffset": 1485
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 2,
-                        "startOffset": 1966,
+                        "startOffset": 2009,
                         "endColumn": 46,
-                        "endOffset": 2010
+                        "endOffset": 2053
                     }
                 }
             },
@@ -524,13 +524,13 @@
                     "endOffset": 1536
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 2,
-                        "startOffset": 2013,
+                        "startOffset": 2057,
                         "endColumn": 48,
-                        "endOffset": 2059
+                        "endOffset": 2103
                     }
                 }
             },
@@ -543,13 +543,13 @@
                     "endOffset": 1587
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 2,
-                        "startOffset": 2062,
+                        "startOffset": 2107,
                         "endColumn": 48,
-                        "endOffset": 2108
+                        "endOffset": 2153
                     }
                 }
             },
@@ -562,13 +562,13 @@
                     "endOffset": 1635
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 2,
-                        "startOffset": 2111,
+                        "startOffset": 2157,
                         "endColumn": 45,
-                        "endOffset": 2154
+                        "endOffset": 2200
                     }
                 }
             },
@@ -581,13 +581,13 @@
                     "endOffset": 1684
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 2,
-                        "startOffset": 2157,
+                        "startOffset": 2204,
                         "endColumn": 46,
-                        "endOffset": 2201
+                        "endOffset": 2248
                     }
                 }
             },
@@ -600,13 +600,13 @@
                     "endOffset": 1734
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 2,
-                        "startOffset": 2204,
+                        "startOffset": 2252,
                         "endColumn": 47,
-                        "endOffset": 2249
+                        "endOffset": 2297
                     }
                 }
             },
@@ -619,13 +619,13 @@
                     "endOffset": 1796
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 2,
-                        "startOffset": 2252,
+                        "startOffset": 2301,
                         "endColumn": 59,
-                        "endOffset": 2309
+                        "endOffset": 2358
                     }
                 }
             },
@@ -638,13 +638,13 @@
                     "endOffset": 1849
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 2,
-                        "startOffset": 2312,
+                        "startOffset": 2362,
                         "endColumn": 50,
-                        "endOffset": 2360
+                        "endOffset": 2410
                     }
                 }
             },
@@ -657,13 +657,13 @@
                     "endOffset": 1911
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 2,
-                        "startOffset": 2363,
+                        "startOffset": 2414,
                         "endColumn": 59,
-                        "endOffset": 2420
+                        "endOffset": 2471
                     }
                 }
             },
@@ -676,13 +676,13 @@
                     "endOffset": 1958
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 2,
-                        "startOffset": 2423,
+                        "startOffset": 2475,
                         "endColumn": 44,
-                        "endOffset": 2465
+                        "endOffset": 2517
                     }
                 }
             },
@@ -695,13 +695,13 @@
                     "endOffset": 2020
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 2,
-                        "startOffset": 2468,
+                        "startOffset": 2521,
                         "endColumn": 59,
-                        "endOffset": 2525
+                        "endOffset": 2578
                     }
                 }
             },
@@ -714,13 +714,13 @@
                     "endOffset": 2067
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 2,
-                        "startOffset": 2528,
+                        "startOffset": 2582,
                         "endColumn": 44,
-                        "endOffset": 2570
+                        "endOffset": 2624
                     }
                 }
             },
@@ -733,13 +733,13 @@
                     "endOffset": 2112
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 2,
-                        "startOffset": 2573,
+                        "startOffset": 2628,
                         "endColumn": 42,
-                        "endOffset": 2613
+                        "endOffset": 2668
                     }
                 }
             },
@@ -752,13 +752,13 @@
                     "endOffset": 2169
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 2,
-                        "startOffset": 2616,
+                        "startOffset": 2672,
                         "endColumn": 54,
-                        "endOffset": 2668
+                        "endOffset": 2724
                     }
                 }
             },
@@ -771,13 +771,13 @@
                     "endOffset": 2224
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 2,
-                        "startOffset": 2671,
+                        "startOffset": 2728,
                         "endColumn": 52,
-                        "endOffset": 2721
+                        "endOffset": 2778
                     }
                 }
             },
@@ -790,13 +790,13 @@
                     "endOffset": 2266
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 2,
-                        "startOffset": 2724,
+                        "startOffset": 2782,
                         "endColumn": 39,
-                        "endOffset": 2761
+                        "endOffset": 2819
                     }
                 }
             },
@@ -809,13 +809,13 @@
                     "endOffset": 2310
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 59,
                         "startColumn": 2,
-                        "startOffset": 2764,
+                        "startOffset": 2823,
                         "endColumn": 41,
-                        "endOffset": 2803
+                        "endOffset": 2862
                     }
                 }
             },
@@ -828,13 +828,13 @@
                     "endOffset": 2355
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 2,
-                        "startOffset": 2806,
+                        "startOffset": 2866,
                         "endColumn": 42,
-                        "endOffset": 2846
+                        "endOffset": 2906
                     }
                 }
             },
@@ -847,13 +847,13 @@
                     "endOffset": 2397
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 2,
-                        "startOffset": 2849,
+                        "startOffset": 2910,
                         "endColumn": 39,
-                        "endOffset": 2886
+                        "endOffset": 2947
                     }
                 }
             },
@@ -866,13 +866,13 @@
                     "endOffset": 2468
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 2,
-                        "startOffset": 2889,
+                        "startOffset": 2951,
                         "endColumn": 68,
-                        "endOffset": 2955
+                        "endOffset": 3017
                     }
                 }
             },
@@ -885,13 +885,13 @@
                     "endOffset": 2562
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 2,
-                        "startOffset": 2958,
+                        "startOffset": 3021,
                         "endColumn": 91,
-                        "endOffset": 3047
+                        "endOffset": 3110
                     }
                 }
             },
@@ -904,13 +904,13 @@
                     "endOffset": 2616
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 64,
                         "startColumn": 2,
-                        "startOffset": 3050,
+                        "startOffset": 3114,
                         "endColumn": 51,
-                        "endOffset": 3099
+                        "endOffset": 3163
                     }
                 }
             },
@@ -923,13 +923,13 @@
                     "endOffset": 2667
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 65,
                         "startColumn": 2,
-                        "startOffset": 3102,
+                        "startOffset": 3167,
                         "endColumn": 48,
-                        "endOffset": 3148
+                        "endOffset": 3213
                     }
                 }
             },
@@ -942,13 +942,13 @@
                     "endOffset": 2725
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 66,
                         "startColumn": 2,
-                        "startOffset": 3151,
+                        "startOffset": 3217,
                         "endColumn": 55,
-                        "endOffset": 3204
+                        "endOffset": 3270
                     }
                 }
             },
@@ -961,13 +961,13 @@
                     "endOffset": 2801
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 2,
-                        "startOffset": 3207,
+                        "startOffset": 3274,
                         "endColumn": 73,
-                        "endOffset": 3278
+                        "endOffset": 3345
                     }
                 }
             },
@@ -980,13 +980,13 @@
                     "endOffset": 2849
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 68,
                         "startColumn": 2,
-                        "startOffset": 3281,
+                        "startOffset": 3349,
                         "endColumn": 45,
-                        "endOffset": 3324
+                        "endOffset": 3392
                     }
                 }
             },
@@ -999,13 +999,13 @@
                     "endOffset": 2898
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 69,
                         "startColumn": 2,
-                        "startOffset": 3327,
+                        "startOffset": 3396,
                         "endColumn": 46,
-                        "endOffset": 3371
+                        "endOffset": 3440
                     }
                 }
             },
@@ -1018,13 +1018,13 @@
                     "endOffset": 2977
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 70,
                         "startColumn": 2,
-                        "startOffset": 3374,
+                        "startOffset": 3444,
                         "endColumn": 76,
-                        "endOffset": 3448
+                        "endOffset": 3518
                     }
                 }
             },
@@ -1037,13 +1037,13 @@
                     "endOffset": 3019
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 71,
                         "startColumn": 2,
-                        "startOffset": 3451,
+                        "startOffset": 3522,
                         "endColumn": 39,
-                        "endOffset": 3488
+                        "endOffset": 3559
                     }
                 }
             },
@@ -1056,13 +1056,13 @@
                     "endOffset": 3071
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 72,
                         "startColumn": 2,
-                        "startOffset": 3491,
+                        "startOffset": 3563,
                         "endColumn": 49,
-                        "endOffset": 3538
+                        "endOffset": 3610
                     }
                 }
             },
@@ -1075,13 +1075,13 @@
                     "endOffset": 3125
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 73,
                         "startColumn": 2,
-                        "startOffset": 3541,
+                        "startOffset": 3614,
                         "endColumn": 51,
-                        "endOffset": 3590
+                        "endOffset": 3663
                     }
                 }
             },
@@ -1094,13 +1094,13 @@
                     "endOffset": 3220
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 74,
                         "startColumn": 2,
-                        "startOffset": 3593,
+                        "startOffset": 3667,
                         "endColumn": 92,
-                        "endOffset": 3683
+                        "endOffset": 3757
                     }
                 }
             },
@@ -1113,13 +1113,13 @@
                     "endOffset": 3270
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 75,
                         "startColumn": 2,
-                        "startOffset": 3686,
+                        "startOffset": 3761,
                         "endColumn": 47,
-                        "endOffset": 3731
+                        "endOffset": 3806
                     }
                 }
             },
@@ -1132,13 +1132,13 @@
                     "endOffset": 3318
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 76,
                         "startColumn": 2,
-                        "startOffset": 3734,
+                        "startOffset": 3810,
                         "endColumn": 45,
-                        "endOffset": 3777
+                        "endOffset": 3853
                     }
                 }
             },
@@ -1151,13 +1151,13 @@
                     "endOffset": 3387
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 77,
                         "startColumn": 2,
-                        "startOffset": 3780,
+                        "startOffset": 3857,
                         "endColumn": 66,
-                        "endOffset": 3844
+                        "endOffset": 3921
                     }
                 }
             },
@@ -1170,13 +1170,13 @@
                     "endOffset": 3444
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 78,
                         "startColumn": 2,
-                        "startOffset": 3847,
+                        "startOffset": 3925,
                         "endColumn": 54,
-                        "endOffset": 3899
+                        "endOffset": 3977
                     }
                 }
             },
@@ -1189,13 +1189,13 @@
                     "endOffset": 3508
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 79,
                         "startColumn": 2,
-                        "startOffset": 3902,
+                        "startOffset": 3981,
                         "endColumn": 61,
-                        "endOffset": 3961
+                        "endOffset": 4040
                     }
                 }
             },
@@ -1208,13 +1208,13 @@
                     "endOffset": 3553
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 80,
                         "startColumn": 2,
-                        "startOffset": 3964,
+                        "startOffset": 4044,
                         "endColumn": 42,
-                        "endOffset": 4004
+                        "endOffset": 4084
                     }
                 }
             },
@@ -1227,13 +1227,13 @@
                     "endOffset": 3600
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 81,
                         "startColumn": 2,
-                        "startOffset": 4007,
+                        "startOffset": 4088,
                         "endColumn": 44,
-                        "endOffset": 4049
+                        "endOffset": 4130
                     }
                 }
             },
@@ -1246,13 +1246,13 @@
                     "endOffset": 3658
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 82,
                         "startColumn": 2,
-                        "startOffset": 4052,
+                        "startOffset": 4134,
                         "endColumn": 55,
-                        "endOffset": 4105
+                        "endOffset": 4187
                     }
                 }
             },
@@ -1265,13 +1265,13 @@
                     "endOffset": 3724
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 83,
                         "startColumn": 2,
-                        "startOffset": 4108,
+                        "startOffset": 4191,
                         "endColumn": 63,
-                        "endOffset": 4169
+                        "endOffset": 4252
                     }
                 }
             },
@@ -1284,13 +1284,13 @@
                     "endOffset": 3818
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 84,
                         "startColumn": 2,
-                        "startOffset": 4172,
+                        "startOffset": 4256,
                         "endColumn": 91,
-                        "endOffset": 4261
+                        "endOffset": 4345
                     }
                 }
             },
@@ -1303,13 +1303,13 @@
                     "endOffset": 3878
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 85,
                         "startColumn": 2,
-                        "startOffset": 4264,
+                        "startOffset": 4349,
                         "endColumn": 57,
-                        "endOffset": 4319
+                        "endOffset": 4404
                     }
                 }
             },
@@ -1322,13 +1322,13 @@
                     "endOffset": 3924
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 86,
                         "startColumn": 2,
-                        "startOffset": 4322,
+                        "startOffset": 4408,
                         "endColumn": 43,
-                        "endOffset": 4363
+                        "endOffset": 4449
                     }
                 }
             },
@@ -1341,13 +1341,13 @@
                     "endOffset": 3984
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 87,
                         "startColumn": 2,
-                        "startOffset": 4366,
+                        "startOffset": 4453,
                         "endColumn": 57,
-                        "endOffset": 4421
+                        "endOffset": 4508
                     }
                 }
             },
@@ -1360,13 +1360,13 @@
                     "endOffset": 4047
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 88,
                         "startColumn": 2,
-                        "startOffset": 4424,
+                        "startOffset": 4512,
                         "endColumn": 60,
-                        "endOffset": 4482
+                        "endOffset": 4570
                     }
                 }
             },
@@ -1379,13 +1379,13 @@
                     "endOffset": 4116
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 89,
                         "startColumn": 2,
-                        "startOffset": 4485,
+                        "startOffset": 4574,
                         "endColumn": 66,
-                        "endOffset": 4549
+                        "endOffset": 4638
                     }
                 }
             },
@@ -1398,13 +1398,13 @@
                     "endOffset": 4187
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 90,
                         "startColumn": 2,
-                        "startOffset": 4552,
+                        "startOffset": 4642,
                         "endColumn": 68,
-                        "endOffset": 4618
+                        "endOffset": 4708
                     }
                 }
             },
@@ -1417,13 +1417,13 @@
                     "endOffset": 4265
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 91,
                         "startColumn": 2,
-                        "startOffset": 4621,
+                        "startOffset": 4712,
                         "endColumn": 75,
-                        "endOffset": 4694
+                        "endOffset": 4785
                     }
                 }
             },
@@ -1436,13 +1436,13 @@
                     "endOffset": 4331
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 92,
                         "startColumn": 2,
-                        "startOffset": 4697,
+                        "startOffset": 4789,
                         "endColumn": 63,
-                        "endOffset": 4758
+                        "endOffset": 4850
                     }
                 }
             },
@@ -1455,13 +1455,13 @@
                     "endOffset": 4411
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 93,
                         "startColumn": 2,
-                        "startOffset": 4761,
+                        "startOffset": 4854,
                         "endColumn": 77,
-                        "endOffset": 4836
+                        "endOffset": 4929
                     }
                 }
             },
@@ -1474,13 +1474,13 @@
                     "endOffset": 4528
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 94,
                         "startColumn": 2,
-                        "startOffset": 4839,
+                        "startOffset": 4933,
                         "endColumn": 114,
-                        "endOffset": 4951
+                        "endOffset": 5045
                     }
                 }
             },
@@ -1493,13 +1493,13 @@
                     "endOffset": 4608
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 95,
                         "startColumn": 2,
-                        "startOffset": 4954,
+                        "startOffset": 5049,
                         "endColumn": 77,
-                        "endOffset": 5029
+                        "endOffset": 5124
                     }
                 }
             },
@@ -1512,13 +1512,13 @@
                     "endOffset": 4689
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 96,
                         "startColumn": 2,
-                        "startOffset": 5032,
+                        "startOffset": 5128,
                         "endColumn": 78,
-                        "endOffset": 5108
+                        "endOffset": 5204
                     }
                 }
             },
@@ -1531,13 +1531,13 @@
                     "endOffset": 4767
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 97,
                         "startColumn": 2,
-                        "startOffset": 5111,
+                        "startOffset": 5208,
                         "endColumn": 75,
-                        "endOffset": 5184
+                        "endOffset": 5281
                     }
                 }
             },
@@ -1550,13 +1550,13 @@
                     "endOffset": 4837
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 98,
                         "startColumn": 2,
-                        "startOffset": 5187,
+                        "startOffset": 5285,
                         "endColumn": 67,
-                        "endOffset": 5252
+                        "endOffset": 5350
                     }
                 }
             },
@@ -1569,13 +1569,13 @@
                     "endOffset": 4914
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 99,
                         "startColumn": 2,
-                        "startOffset": 5255,
+                        "startOffset": 5354,
                         "endColumn": 74,
-                        "endOffset": 5327
+                        "endOffset": 5426
                     }
                 }
             },
@@ -1588,13 +1588,13 @@
                     "endOffset": 4985
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 100,
                         "startColumn": 2,
-                        "startOffset": 5330,
+                        "startOffset": 5430,
                         "endColumn": 68,
-                        "endOffset": 5396
+                        "endOffset": 5496
                     }
                 }
             },
@@ -1607,13 +1607,13 @@
                     "endOffset": 5047
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 101,
                         "startColumn": 2,
-                        "startOffset": 5399,
+                        "startOffset": 5500,
                         "endColumn": 59,
-                        "endOffset": 5456
+                        "endOffset": 5557
                     }
                 }
             },
@@ -1626,13 +1626,13 @@
                     "endOffset": 5122
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 102,
                         "startColumn": 2,
-                        "startOffset": 5459,
+                        "startOffset": 5561,
                         "endColumn": 72,
-                        "endOffset": 5529
+                        "endOffset": 5631
                     }
                 }
             },
@@ -1645,13 +1645,13 @@
                     "endOffset": 5214
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 103,
                         "startColumn": 2,
-                        "startOffset": 5532,
+                        "startOffset": 5635,
                         "endColumn": 89,
-                        "endOffset": 5619
+                        "endOffset": 5722
                     }
                 }
             },
@@ -1664,13 +1664,13 @@
                     "endOffset": 5305
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 104,
                         "startColumn": 2,
-                        "startOffset": 5622,
+                        "startOffset": 5726,
                         "endColumn": 88,
-                        "endOffset": 5708
+                        "endOffset": 5812
                     }
                 }
             },
@@ -1683,13 +1683,13 @@
                     "endOffset": 5387
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 105,
                         "startColumn": 2,
-                        "startOffset": 5711,
+                        "startOffset": 5816,
                         "endColumn": 79,
-                        "endOffset": 5788
+                        "endOffset": 5893
                     }
                 }
             },
@@ -1702,13 +1702,13 @@
                     "endOffset": 5456
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 106,
                         "startColumn": 2,
-                        "startOffset": 5791,
+                        "startOffset": 5897,
                         "endColumn": 66,
-                        "endOffset": 5855
+                        "endOffset": 5961
                     }
                 }
             },
@@ -1721,13 +1721,13 @@
                     "endOffset": 5525
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 107,
                         "startColumn": 2,
-                        "startOffset": 5858,
+                        "startOffset": 5965,
                         "endColumn": 66,
-                        "endOffset": 5922
+                        "endOffset": 6029
                     }
                 }
             },
@@ -1740,13 +1740,13 @@
                     "endOffset": 5585
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 108,
                         "startColumn": 2,
-                        "startOffset": 5925,
+                        "startOffset": 6033,
                         "endColumn": 57,
-                        "endOffset": 5980
+                        "endOffset": 6088
                     }
                 }
             },
@@ -1759,13 +1759,13 @@
                     "endOffset": 5648
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 109,
                         "startColumn": 2,
-                        "startOffset": 5983,
+                        "startOffset": 6092,
                         "endColumn": 60,
-                        "endOffset": 6041
+                        "endOffset": 6150
                     }
                 }
             },
@@ -1778,13 +1778,13 @@
                     "endOffset": 5709
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 110,
                         "startColumn": 2,
-                        "startOffset": 6044,
+                        "startOffset": 6154,
                         "endColumn": 58,
-                        "endOffset": 6100
+                        "endOffset": 6210
                     }
                 }
             },
@@ -1797,13 +1797,13 @@
                     "endOffset": 5785
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 111,
                         "startColumn": 2,
-                        "startOffset": 6103,
+                        "startOffset": 6214,
                         "endColumn": 73,
-                        "endOffset": 6174
+                        "endOffset": 6285
                     }
                 }
             },
@@ -1816,13 +1816,13 @@
                     "endOffset": 5850
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 112,
                         "startColumn": 2,
-                        "startOffset": 6177,
+                        "startOffset": 6289,
                         "endColumn": 62,
-                        "endOffset": 6237
+                        "endOffset": 6349
                     }
                 }
             },
@@ -1835,13 +1835,13 @@
                     "endOffset": 5909
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 113,
                         "startColumn": 2,
-                        "startOffset": 6240,
+                        "startOffset": 6353,
                         "endColumn": 56,
-                        "endOffset": 6294
+                        "endOffset": 6407
                     }
                 }
             },
@@ -1854,13 +1854,13 @@
                     "endOffset": 5981
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 114,
                         "startColumn": 2,
-                        "startOffset": 6297,
+                        "startOffset": 6411,
                         "endColumn": 69,
-                        "endOffset": 6364
+                        "endOffset": 6478
                     }
                 }
             },
@@ -1873,13 +1873,13 @@
                     "endOffset": 6041
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 115,
                         "startColumn": 2,
-                        "startOffset": 6367,
+                        "startOffset": 6482,
                         "endColumn": 57,
-                        "endOffset": 6422
+                        "endOffset": 6537
                     }
                 }
             },
@@ -1892,13 +1892,13 @@
                     "endOffset": 6138
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 116,
                         "startColumn": 2,
-                        "startOffset": 6425,
+                        "startOffset": 6541,
                         "endColumn": 94,
-                        "endOffset": 6517
+                        "endOffset": 6633
                     }
                 }
             },
@@ -1911,13 +1911,13 @@
                     "endOffset": 6203
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 117,
                         "startColumn": 2,
-                        "startOffset": 6520,
+                        "startOffset": 6637,
                         "endColumn": 62,
-                        "endOffset": 6580
+                        "endOffset": 6697
                     }
                 }
             },
@@ -1930,13 +1930,13 @@
                     "endOffset": 6251
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 118,
                         "startColumn": 2,
-                        "startOffset": 6583,
+                        "startOffset": 6701,
                         "endColumn": 45,
-                        "endOffset": 6626
+                        "endOffset": 6744
                     }
                 }
             },
@@ -1949,13 +1949,13 @@
                     "endOffset": 6317
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 119,
                         "startColumn": 2,
-                        "startOffset": 6629,
+                        "startOffset": 6748,
                         "endColumn": 63,
-                        "endOffset": 6690
+                        "endOffset": 6809
                     }
                 }
             },
@@ -1968,13 +1968,13 @@
                     "endOffset": 6377
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 120,
                         "startColumn": 2,
-                        "startOffset": 6693,
+                        "startOffset": 6813,
                         "endColumn": 57,
-                        "endOffset": 6748
+                        "endOffset": 6868
                     }
                 }
             },
@@ -1987,13 +1987,13 @@
                     "endOffset": 6464
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 121,
                         "startColumn": 2,
-                        "startOffset": 6751,
+                        "startOffset": 6872,
                         "endColumn": 84,
-                        "endOffset": 6833
+                        "endOffset": 6954
                     }
                 }
             },
@@ -2006,13 +2006,13 @@
                     "endOffset": 6544
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 122,
                         "startColumn": 2,
-                        "startOffset": 6836,
+                        "startOffset": 6958,
                         "endColumn": 77,
-                        "endOffset": 6911
+                        "endOffset": 7033
                     }
                 }
             },
@@ -2025,13 +2025,13 @@
                     "endOffset": 6605
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 123,
                         "startColumn": 2,
-                        "startOffset": 6914,
+                        "startOffset": 7037,
                         "endColumn": 58,
-                        "endOffset": 6970
+                        "endOffset": 7093
                     }
                 }
             },
@@ -2044,13 +2044,13 @@
                     "endOffset": 6671
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 124,
                         "startColumn": 2,
-                        "startOffset": 6973,
+                        "startOffset": 7097,
                         "endColumn": 63,
-                        "endOffset": 7034
+                        "endOffset": 7158
                     }
                 }
             },
@@ -2063,13 +2063,13 @@
                     "endOffset": 6733
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 125,
                         "startColumn": 2,
-                        "startOffset": 7037,
+                        "startOffset": 7162,
                         "endColumn": 59,
-                        "endOffset": 7094
+                        "endOffset": 7219
                     }
                 }
             },
@@ -2082,13 +2082,13 @@
                     "endOffset": 6813
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 126,
                         "startColumn": 2,
-                        "startOffset": 7097,
+                        "startOffset": 7223,
                         "endColumn": 77,
-                        "endOffset": 7172
+                        "endOffset": 7298
                     }
                 }
             },
@@ -2101,13 +2101,13 @@
                     "endOffset": 6880
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 127,
                         "startColumn": 2,
-                        "startOffset": 7175,
+                        "startOffset": 7302,
                         "endColumn": 64,
-                        "endOffset": 7237
+                        "endOffset": 7364
                     }
                 }
             },
@@ -2120,13 +2120,13 @@
                     "endOffset": 6943
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 128,
                         "startColumn": 2,
-                        "startOffset": 7240,
+                        "startOffset": 7368,
                         "endColumn": 60,
-                        "endOffset": 7298
+                        "endOffset": 7426
                     }
                 }
             },
@@ -2139,13 +2139,13 @@
                     "endOffset": 7003
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 129,
                         "startColumn": 2,
-                        "startOffset": 7301,
+                        "startOffset": 7430,
                         "endColumn": 57,
-                        "endOffset": 7356
+                        "endOffset": 7485
                     }
                 }
             },
@@ -2158,13 +2158,13 @@
                     "endOffset": 7058
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 130,
                         "startColumn": 2,
-                        "startOffset": 7359,
+                        "startOffset": 7489,
                         "endColumn": 52,
-                        "endOffset": 7409
+                        "endOffset": 7539
                     }
                 }
             },
@@ -2177,13 +2177,13 @@
                     "endOffset": 7123
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 131,
                         "startColumn": 2,
-                        "startOffset": 7412,
+                        "startOffset": 7543,
                         "endColumn": 62,
-                        "endOffset": 7472
+                        "endOffset": 7603
                     }
                 }
             },
@@ -2196,13 +2196,13 @@
                     "endOffset": 7175
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 132,
                         "startColumn": 2,
-                        "startOffset": 7475,
+                        "startOffset": 7607,
                         "endColumn": 49,
-                        "endOffset": 7522
+                        "endOffset": 7654
                     }
                 }
             },
@@ -2215,13 +2215,13 @@
                     "endOffset": 7226
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 133,
                         "startColumn": 2,
-                        "startOffset": 7525,
+                        "startOffset": 7658,
                         "endColumn": 48,
-                        "endOffset": 7571
+                        "endOffset": 7704
                     }
                 }
             },
@@ -2234,13 +2234,13 @@
                     "endOffset": 7280
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 134,
                         "startColumn": 2,
-                        "startOffset": 7574,
+                        "startOffset": 7708,
                         "endColumn": 51,
-                        "endOffset": 7623
+                        "endOffset": 7757
                     }
                 }
             },
@@ -2253,13 +2253,13 @@
                     "endOffset": 7335
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 135,
                         "startColumn": 2,
-                        "startOffset": 7626,
+                        "startOffset": 7761,
                         "endColumn": 52,
-                        "endOffset": 7676
+                        "endOffset": 7811
                     }
                 }
             },
@@ -2272,13 +2272,13 @@
                     "endOffset": 7387
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 136,
                         "startColumn": 2,
-                        "startOffset": 7679,
+                        "startOffset": 7815,
                         "endColumn": 49,
-                        "endOffset": 7726
+                        "endOffset": 7862
                     }
                 }
             },
@@ -2291,13 +2291,13 @@
                     "endOffset": 7443
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 137,
                         "startColumn": 2,
-                        "startOffset": 7729,
+                        "startOffset": 7866,
                         "endColumn": 53,
-                        "endOffset": 7780
+                        "endOffset": 7917
                     }
                 }
             },
@@ -2310,13 +2310,13 @@
                     "endOffset": 7495
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 138,
                         "startColumn": 2,
-                        "startOffset": 7783,
+                        "startOffset": 7921,
                         "endColumn": 49,
-                        "endOffset": 7830
+                        "endOffset": 7968
                     }
                 }
             },
@@ -2329,13 +2329,13 @@
                     "endOffset": 7552
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 139,
                         "startColumn": 2,
-                        "startOffset": 7833,
+                        "startOffset": 7972,
                         "endColumn": 54,
-                        "endOffset": 7885
+                        "endOffset": 8024
                     }
                 }
             },
@@ -2348,13 +2348,13 @@
                     "endOffset": 7600
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 140,
                         "startColumn": 2,
-                        "startOffset": 7888,
+                        "startOffset": 8028,
                         "endColumn": 45,
-                        "endOffset": 7931
+                        "endOffset": 8071
                     }
                 }
             },
@@ -2367,13 +2367,13 @@
                     "endOffset": 7666
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values-ja/strings.xml",
+                    "file": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\values-ja\\strings.xml",
                     "position": {
                         "startLine": 141,
                         "startColumn": 2,
-                        "startOffset": 7934,
+                        "startOffset": 8075,
                         "endColumn": 63,
-                        "endOffset": 7995
+                        "endOffset": 8136
                     }
                 }
             }

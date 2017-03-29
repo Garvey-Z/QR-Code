@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/drawable-hdpi/launcher_icon.png",
-        "source": "/Users/apple/homegit/456/app/src/main/res/drawable-hdpi/launcher_icon.png"
+        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\line.png",
+        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\drawable-hdpi\\line.png"
+    },
+    {
+        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\launcher_icon.png",
+        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\drawable-hdpi\\launcher_icon.png"
     }
 ]

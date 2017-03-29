@@ -5,50 +5,33 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="24313832635808"
-    token="3598520875715617243" >
+    timestamp="1909822489314"
+    token="7457703997792417371"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="9445" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="5056" />
     <task
         name="verifier"
-        duration="0" />
+        duration="1173" />
+
+    <artifact
+        location="F:\android\QR-Code\456\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="24057952170025"
-        verifier="FIELD_ADDED" >
+        timestamp="1909822489314"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/apple/homegit/456/app/build/outputs/apk/app-debug.apk"
+            location="F:\android\QR-Code\456\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="24174895448507"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/apple/homegit/456/app/build/intermediates/builds/debug/24174895448507/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        timestamp="24206944272575"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/apple/homegit/456/app/build/intermediates/builds/debug/24206944272575/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        timestamp="24284182371555"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/apple/homegit/456/app/build/intermediates/builds/debug/24284182371555/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build timestamp="24313832635808" />
 
 </instant-run>
