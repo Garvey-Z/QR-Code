@@ -28,6 +28,7 @@ public class DeletableEditText extends EditText {
 
     public DeletableEditText(Context context, AttributeSet attrs) {
         this(context, attrs, android.R.attr.editTextStyle);
+        
     }
 
     public DeletableEditText(Context context, AttributeSet attrs, int defStyleAttr) {
