@@ -3,30 +3,30 @@
 
     <item
         is-multidex="false"
-        jar="F:\android\QR-Code\456\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="/Users/apple/homegit/456/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="949732acce780cd7d5426839f7b5ed1cfa4f326e">
-        <dex dex="F:\android\QR-Code\456\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9bc0fd25a90b369b4129ed5f5019a18a1d52ac6f.jar" />
+        sha1="b455717d51354c2e0651d34959a7ebb157e0de34">
+        <dex dex="/Users/apple/homegit/456/app/build/intermediates/pre-dexed/debug/instant-run_308da167457a8204ccfd2ed51b1e7debd9c78f4c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\android\QR-Code\456\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="/Users/apple/homegit/456/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="d6ff5a7cb5b666bee59b32c538ecb6b1098fd7ba">
-        <dex dex="F:\android\QR-Code\456\app\build\intermediates\pre-dexed\debug\instant-run_30a58d586e20e3b0ae85cc6c7df724c484ff39b1.jar" />
+        sha1="dd08d5527bb0a1190ad4bc36c36bc7f0630871ac">
+        <dex dex="/Users/apple/homegit/456/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_6a92080d6c956c8df2fa1d05381a2dd61eeafa69.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\android\QR-Code\456\app\libs\core-3.3.1.jar"
+        jar="/Users/apple/homegit/456/app/libs/core-3.3.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="f852ac9a691288db67353bceb88de391aefb1afb">
-        <dex dex="F:\android\QR-Code\456\app\build\intermediates\pre-dexed\debug\core-3.3.1_3c15d29aa4f996c507a594c9e5f154d148a8ab2c.jar" />
+        <dex dex="/Users/apple/homegit/456/app/build/intermediates/pre-dexed/debug/core-3.3.1_e0fbc350b07487ef61b5a0e90f8db48ee37e3448.jar" />
     </item>
 
 </items>

@@ -1,26 +1,14 @@
 [
     {
-        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_via_barcode.png",
-        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\drawable\\share_via_barcode.png"
+        "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/drawable/launcher_icon.png",
+        "source": "/Users/apple/homegit/456/app/src/main/res/drawable/launcher_icon.png"
     },
     {
-        "merged": "F:\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\launcher_icon.png",
-        "source": "F:\\android\\android\\app\\src\\main\\res\\drawable\\launcher_icon.png"
+        "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/drawable/timp.png",
+        "source": "/Users/apple/homegit/456/app/src/main/res/drawable/timp.png"
     },
     {
-        "merged": "F:\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_via_barcode.png",
-        "source": "F:\\android\\android\\app\\src\\main\\res\\drawable\\share_via_barcode.png"
-    },
-    {
-        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\launcher_icon.png",
-        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\drawable\\launcher_icon.png"
-    },
-    {
-        "merged": "F:\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timp.png",
-        "source": "F:\\android\\android\\app\\src\\main\\res\\drawable\\timp.png"
-    },
-    {
-        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timp.png",
-        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\drawable\\timp.png"
+        "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/drawable/share_via_barcode.png",
+        "source": "/Users/apple/homegit/456/app/src/main/res/drawable/share_via_barcode.png"
     }
 ]
