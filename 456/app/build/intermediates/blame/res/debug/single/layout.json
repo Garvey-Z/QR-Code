@@ -4,8 +4,16 @@
         "source": "/Users/apple/homegit/456/app/src/main/res/layout/main_activity.xml"
     },
     {
+        "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/layout/my_name.xml",
+        "source": "/Users/apple/homegit/456/app/src/main/res/layout/my_name.xml"
+    },
+    {
         "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/layout/search_book_contents_header.xml",
         "source": "/Users/apple/homegit/456/app/src/main/res/layout/search_book_contents_header.xml"
+    },
+    {
+        "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/layout/my_gender.xml",
+        "source": "/Users/apple/homegit/456/app/src/main/res/layout/my_gender.xml"
     },
     {
         "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/layout/search_book_contents_list_item.xml",
@@ -28,6 +36,10 @@
         "source": "/Users/apple/homegit/456/app/src/main/res/layout/capture.xml"
     },
     {
+        "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/layout/my_photo.xml",
+        "source": "/Users/apple/homegit/456/app/src/main/res/layout/my_photo.xml"
+    },
+    {
         "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/layout/search_book_contents.xml",
         "source": "/Users/apple/homegit/456/app/src/main/res/layout/search_book_contents.xml"
     },
@@ -42,6 +54,14 @@
     {
         "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/layout/login2.xml",
         "source": "/Users/apple/homegit/456/app/src/main/res/layout/login2.xml"
+    },
+    {
+        "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/layout/my_qr_code.xml",
+        "source": "/Users/apple/homegit/456/app/src/main/res/layout/my_qr_code.xml"
+    },
+    {
+        "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/layout/my_role.xml",
+        "source": "/Users/apple/homegit/456/app/src/main/res/layout/my_role.xml"
     },
     {
         "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/layout/bookmark_picker_list_item.xml",

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/customer_selected.xml",
+        "source": "/Users/apple/homegit/456/app/src/main/res/drawable-hdpi/customer_selected.xml"
+    },
+    {
+        "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/layout_selector.xml",
+        "source": "/Users/apple/homegit/456/app/src/main/res/drawable-hdpi/layout_selector.xml"
+    },
+    {
+        "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/customer_normal.xml",
+        "source": "/Users/apple/homegit/456/app/src/main/res/drawable-hdpi/customer_normal.xml"
+    }
+]

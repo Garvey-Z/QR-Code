@@ -4,7 +4,23 @@
         "source": "/Users/apple/homegit/456/app/src/main/res/drawable-hdpi/line.png"
     },
     {
+        "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/drawable-hdpi/clear.png",
+        "source": "/Users/apple/homegit/456/app/src/main/res/drawable-hdpi/clear.png"
+    },
+    {
+        "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/drawable-hdpi/next.png",
+        "source": "/Users/apple/homegit/456/app/src/main/res/drawable-hdpi/next.png"
+    },
+    {
         "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/drawable-hdpi/launcher_icon.png",
         "source": "/Users/apple/homegit/456/app/src/main/res/drawable-hdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/drawable-hdpi/yes.png",
+        "source": "/Users/apple/homegit/456/app/src/main/res/drawable-hdpi/yes.png"
+    },
+    {
+        "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/drawable-hdpi/clear1.png",
+        "source": "/Users/apple/homegit/456/app/src/main/res/drawable-hdpi/clear1.png"
     }
 ]

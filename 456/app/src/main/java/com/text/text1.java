@@ -9,13 +9,14 @@ import android.widget.Button;
 import com.google.zxing.client.android.CaptureActivity;
 import com.google.zxing.client.android.R;
 import com.mytool.Login;
+import com.mytool.My_Profile;
 
 /**
  * Created by apple on 2017/3/30.
  */
 
 public class text1 extends Activity {
-    private Button btn1;
+    private Button btn1, btn2, btn3, btn4;
     protected void  onCreate(Bundle bundle){
         super.onCreate(bundle);
         setContentView(R.layout.main_activity);
@@ -27,5 +28,22 @@ public class text1 extends Activity {
                 startActivity(intent);
             }
         });
+        btn2 = (Button)findViewById(R.id.bt2);
+        btn2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(text1.this, CaptureActivity.class);
+                startActivity(intent);
+            }
+        });
+        btn3 = (Button)findViewById(R.id.bt3);
+        btn3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(text1.this, My_Profile.class);
+                startActivity(intent);
+            }
+        });
+
     }
 }
