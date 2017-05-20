@@ -39,12 +39,9 @@
   <uses-feature android:name="android.hardware.screen.landscape"/>
   <uses-feature android:name="android.hardware.wifi" android:required="false"/>
 
-  <application android:icon="@drawable/launcher_icon"
-               android:logo="@drawable/launcher_icon"
-               android:label="@string/app_name"
-               android:allowBackup="true"
-      android:theme="@android:style/Theme.Light.NoTitleBar">
-    <activity android:name="com.text.text1">
+  <application
+      android:theme="@style/CaptureTheme">
+    <activity android:name="com.mytool.Login">
 
       <intent-filter>
         <action android:name="android.intent.action.MAIN"/>
@@ -141,7 +138,20 @@
         android:stateNotNeeded="true"
         android:theme="@style/CaptureTheme"
         android:windowSoftInputMode="stateAlwaysHidden"/>
-    <activity android:name="com.mytool.Login"/>
+    <activity android:name="com.text.text1"/>
+
+    <activity android:name="com.mytool.My_Profile"/>
+
+    <!--my_profile-->
+    <activity android:name="com.my_profile.My_Gender"/>
+    <activity android:name="com.my_profile.My_Name"/>
+    <activity android:name="com.my_profile.My_Photo"/>
+    <activity android:name="com.my_profile.My_QR_Code"/>
+    <activity android:name="com.my_profile.My_Role"/>
+    <activity android:name="com.my_profile.My_Phone"/>
+    <!--create-->
+    <activity android:name="com.mytool.Create_QR_Code"/>
+
   </application>
 
 </manifest>

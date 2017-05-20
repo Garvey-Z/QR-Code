@@ -4,6 +4,10 @@
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\layout\\history_list_item.xml"
     },
     {
+        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_role.xml",
+        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\layout\\my_role.xml"
+    },
+    {
         "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\layout\\help.xml"
     },
@@ -20,16 +24,24 @@
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\layout\\encode.xml"
     },
     {
+        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_gender.xml",
+        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\layout\\my_gender.xml"
+    },
+    {
+        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_qr_code.xml",
+        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\layout\\my_qr_code.xml"
+    },
+    {
         "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_profile.xml",
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\layout\\my_profile.xml"
     },
     {
-        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
-        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\layout\\capture.xml"
+        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\layout\\create_qr_code.xml",
+        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\layout\\create_qr_code.xml"
     },
     {
-        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
-        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\layout\\register.xml"
+        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
+        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\layout\\capture.xml"
     },
     {
         "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_picker_list_item.xml",
@@ -44,8 +56,16 @@
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\layout\\main_activity.xml"
     },
     {
+        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_name.xml",
+        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\layout\\my_name.xml"
+    },
+    {
         "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_book_contents.xml",
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\layout\\search_book_contents.xml"
+    },
+    {
+        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_phone.xml",
+        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\layout\\my_phone.xml"
     },
     {
         "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",

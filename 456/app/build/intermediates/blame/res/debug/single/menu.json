@@ -8,6 +8,10 @@
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\menu\\capture.xml"
     },
     {
+        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\menu\\picture_open.xml",
+        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\menu\\picture_open.xml"
+    },
+    {
         "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\menu\\encode.xml"
     }

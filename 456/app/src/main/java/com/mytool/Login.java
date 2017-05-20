@@ -1,11 +1,15 @@
 package com.mytool;
 
+import android.app.ActionBar;
 import android.app.Activity;
+import android.content.Intent;
+import android.content.SharedPreferences;
 import android.graphics.Bitmap;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.text.TextUtils;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -13,6 +17,7 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
 import com.google.zxing.client.android.R;
+import com.text.text1;
 
 import java.io.IOException;
 
@@ -48,6 +53,8 @@ public class Login extends Activity{
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        ActionBar actionBar = getActionBar();
+        actionBar.hide();
         setContentView(R.layout.login);
         setupViews();
 
@@ -57,12 +64,19 @@ public class Login extends Activity{
         @Override
         public void handleMessage(Message msg) {
             super.handleMessage(msg);
-            Bundle data = msg.getData();
+            Log.i("asdsdw","asdwwwwww" );
             switch (msg.what) {
                 case 1: {
-                    String val = data.getString("password");
-                    if (TextUtils.equals(pwdEditText.getText().toString(), val)) {
+                    String val = (String)msg.obj;
+                    String pwd = pwdEditText.getText().toString().trim();
+                    Log.i(val,pwd);
+                    if (TextUtils.equals(pwd, val)) {
                         Toast.makeText(getApplicationContext(), "密码正确", Toast.LENGTH_SHORT).show();
+                        Intent intent = new Intent(Login.this, text1.class);
+                        SharedPreferences.Editor editor = getSharedPreferences("userData",MODE_PRIVATE).edit();
+                        editor.putString("account",userEditText.getText().toString().trim());
+                        editor.commit();
+                        startActivity(intent);
                     }
                 }
                 break;
@@ -131,8 +145,8 @@ public class Login extends Activity{
                 //验证输入的验证码是否正确
                 if(etCheck.getText().toString()!=null&&etCheck.getText().toString().trim().length()>0)
                 {
-                    Toast.makeText(getApplicationContext(), "验证码正确", Toast.LENGTH_SHORT).show();
                     if (numStr.equalsIgnoreCase(etCheck.getText().toString().trim())){
+                        Toast.makeText(getApplicationContext(), "验证码正确", Toast.LENGTH_SHORT).show();
                         new Thread() {
                             @Override
                             public void run() {
