@@ -6,7 +6,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.google.zxing.client.android.CaptureActivity;
 import com.google.zxing.client.android.R;
 import com.mytool.Login;
 
