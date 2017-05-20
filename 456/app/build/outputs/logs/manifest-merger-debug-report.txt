@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/apple/homegit/456/app/src/main/AndroidManifest.xml:17:1-153:12
+ADDED from /Users/apple/homegit/456/app/src/main/AndroidManifest.xml:17:1-157:12
 	package
 		ADDED from /Users/apple/homegit/456/app/src/main/AndroidManifest.xml:18:11-52
 		INJECTED from /Users/apple/homegit/456/app/src/main/AndroidManifest.xml
@@ -90,9 +90,9 @@ ADDED from /Users/apple/homegit/456/app/src/main/AndroidManifest.xml:40:3-80
 	android:name
 		ADDED from /Users/apple/homegit/456/app/src/main/AndroidManifest.xml:40:17-53
 application
-ADDED from /Users/apple/homegit/456/app/src/main/AndroidManifest.xml:42:3-151:17
+ADDED from /Users/apple/homegit/456/app/src/main/AndroidManifest.xml:42:3-155:17
 	android:theme
-		ADDED from /Users/apple/homegit/456/app/src/main/AndroidManifest.xml:43:7-60
+		ADDED from /Users/apple/homegit/456/app/src/main/AndroidManifest.xml:43:7-42
 activity#com.text.text1
 ADDED from /Users/apple/homegit/456/app/src/main/AndroidManifest.xml:44:5-82:16
 	android:name
@@ -267,3 +267,11 @@ activity#com.my_profile.My_Role
 ADDED from /Users/apple/homegit/456/app/src/main/AndroidManifest.xml:150:5-54
 	android:name
 		ADDED from /Users/apple/homegit/456/app/src/main/AndroidManifest.xml:150:15-52
+activity#com.my_profile.My_Phone
+ADDED from /Users/apple/homegit/456/app/src/main/AndroidManifest.xml:151:5-55
+	android:name
+		ADDED from /Users/apple/homegit/456/app/src/main/AndroidManifest.xml:151:15-53
+activity#com.mytool.Create_QR_Code
+ADDED from /Users/apple/homegit/456/app/src/main/AndroidManifest.xml:153:5-57
+	android:name
+		ADDED from /Users/apple/homegit/456/app/src/main/AndroidManifest.xml:153:15-55

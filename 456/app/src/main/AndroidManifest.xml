@@ -40,7 +40,7 @@
   <uses-feature android:name="android.hardware.wifi" android:required="false"/>
 
   <application
-      android:theme="@android:style/Theme.Light.NoTitleBar">
+      android:theme="@style/CaptureTheme">
     <activity android:name="com.text.text1">
 
       <intent-filter>
@@ -148,6 +148,10 @@
     <activity android:name="com.my_profile.My_Photo"/>
     <activity android:name="com.my_profile.My_QR_Code"/>
     <activity android:name="com.my_profile.My_Role"/>
+    <activity android:name="com.my_profile.My_Phone"/>
+    <!--create-->
+    <activity android:name="com.mytool.Create_QR_Code"/>
+
   </application>
 
 </manifest>

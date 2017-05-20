@@ -21,8 +21,8 @@
     android:versionName="4.7.7" >
 
     <uses-sdk
-        android:minSdkVersion="16"
-        android:targetSdkVersion="22" />
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
 
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -49,7 +49,7 @@
 
     <application
         android:name="com.android.tools.fd.runtime.BootstrapApplication"
-        android:theme="@android:style/Theme.Light.NoTitleBar" >
+        android:theme="@style/CaptureTheme" >
         <activity android:name="com.text.text1" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -193,6 +193,9 @@
         <activity android:name="com.my_profile.My_Photo" />
         <activity android:name="com.my_profile.My_QR_Code" />
         <activity android:name="com.my_profile.My_Role" />
+        <activity android:name="com.my_profile.My_Phone" />
+        <!-- create -->
+        <activity android:name="com.mytool.Create_QR_Code" />
     </application>
 
 </manifest>

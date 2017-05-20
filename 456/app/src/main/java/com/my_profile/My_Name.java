@@ -1,5 +1,6 @@
 package com.my_profile;
 
+import android.app.ActionBar;
 import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Color;
@@ -7,6 +8,7 @@ import android.os.Bundle;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.view.View;
+import android.view.Window;
 import android.widget.EditText;
 import android.widget.TextView;
 
@@ -22,6 +24,8 @@ public class My_Name extends Activity {
     String name_String;
     protected void onCreate(Bundle bundle){
         super.onCreate(bundle);
+        ActionBar actionBar = getActionBar();
+        actionBar.hide();
         setContentView(R.layout.my_name);
         Intent intent = getIntent();
 

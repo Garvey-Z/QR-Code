@@ -1,9 +1,11 @@
 package com.my_profile;
 
+import android.app.ActionBar;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.view.Window;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
@@ -21,6 +23,8 @@ public class My_Gender extends Activity implements View.OnClickListener{
     private String gender;
     protected void onCreate(Bundle bundle){
         super.onCreate(bundle);
+        ActionBar actionBar = getActionBar();
+        actionBar.hide();
         setContentView(R.layout.my_gender);
         Intent intent = getIntent();
          gender = intent.getStringExtra("gender").toString();

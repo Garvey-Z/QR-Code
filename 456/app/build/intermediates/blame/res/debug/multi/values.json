@@ -3416,7 +3416,7 @@
                     "startOffset": 12410,
                     "endLine": 227,
                     "endColumn": 10,
-                    "endOffset": 12710
+                    "endOffset": 12717
                 },
                 "from": {
                     "file": "/Users/apple/homegit/456/app/src/main/res/values/themes.xml",
@@ -3426,7 +3426,7 @@
                         "startOffset": 649,
                         "endLine": 22,
                         "endColumn": 10,
-                        "endOffset": 954
+                        "endOffset": 961
                     }
                 }
             },
@@ -3434,10 +3434,10 @@
                 "to": {
                     "startLine": 228,
                     "startColumn": 4,
-                    "startOffset": 12715,
+                    "startOffset": 12722,
                     "endLine": 232,
                     "endColumn": 10,
-                    "endOffset": 12970
+                    "endOffset": 12977
                 },
                 "from": {
                     "file": "/Users/apple/homegit/456/app/src/main/res/values/styles.xml",
@@ -3455,10 +3455,10 @@
                 "to": {
                     "startLine": 233,
                     "startColumn": 4,
-                    "startOffset": 12975,
+                    "startOffset": 12982,
                     "endLine": 236,
                     "endColumn": 10,
-                    "endOffset": 13189
+                    "endOffset": 13196
                 },
                 "from": {
                     "file": "/Users/apple/homegit/456/app/src/main/res/values/styles.xml",

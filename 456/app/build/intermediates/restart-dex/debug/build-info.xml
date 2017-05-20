@@ -1,37 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86,armeabi-v7a"
-    api-level="19"
-    density="xxhdpi"
+    abi="armeabi-v7a,armeabi"
+    api-level="18"
+    density="hdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="3464211311115"
+    timestamp="13841170142483"
     token="3598520875715617243"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="784" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="1110" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="55" />
     <task
         name="verifier"
-        duration="0" />
+        duration="3" />
 
     <artifact
-        location="/Users/apple/homegit/456/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/Users/apple/homegit/456/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
 
     <build
-        timestamp="34749275335206"
+        timestamp="13569454519584"
+        verifier="CLASS_ADDED" >
+        <artifact
+            location="/Users/apple/homegit/456/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="13631364081422"
         verifier="COMPATIBLE" >
         <artifact
-            location="/Users/apple/homegit/456/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-            type="RESOURCES" />
+            location="/Users/apple/homegit/456/app/build/intermediates/builds/debug/13631364081422/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="13743452901640"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/apple/homegit/456/app/build/intermediates/builds/debug/13743452901640/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="13841170142483"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/apple/homegit/456/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>
