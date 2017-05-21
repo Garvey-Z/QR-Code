@@ -3,48 +3,48 @@
 
     <item
         is-multidex="false"
-        jar="F:\android\QR-Code\456\app\libs\okhttp-3.8.0.jar"
+        jar="/Users/apple/homegit/456/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3754444ac7b2b1296e538ed10cbb1faa703ae91">
+        <dex dex="/Users/apple/homegit/456/app/build/intermediates/pre-dexed/debug/instant-run_308da167457a8204ccfd2ed51b1e7debd9c78f4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/homegit/456/app/libs/okhttp-3.8.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
-        <dex dex="F:\android\QR-Code\456\app\build\intermediates\pre-dexed\debug\okhttp-3.8.0_71f6e96a2302f5882bd8acbf37e8a1786d26cd7f.jar" />
+        <dex dex="/Users/apple/homegit/456/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_6f3daee466df53f491acfb71044bc1bceef052de.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\android\QR-Code\456\app\libs\core-3.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f852ac9a691288db67353bceb88de391aefb1afb">
-        <dex dex="F:\android\QR-Code\456\app\build\intermediates\pre-dexed\debug\core-3.3.1_3c15d29aa4f996c507a594c9e5f154d148a8ab2c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\android\QR-Code\456\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="38917b44a92912b0f1f0d91702aadac5e7125513">
-        <dex dex="F:\android\QR-Code\456\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9bc0fd25a90b369b4129ed5f5019a18a1d52ac6f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\android\QR-Code\456\app\libs\okio-1.13.0.jar"
+        jar="/Users/apple/homegit/456/app/libs/okio-1.13.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="F:\android\QR-Code\456\app\build\intermediates\pre-dexed\debug\okio-1.13.0_0c26d8e0f04ad93cf5787eda339a675f689575a7.jar" />
+        <dex dex="/Users/apple/homegit/456/app/build/intermediates/pre-dexed/debug/okio-1.13.0_dbe4d9d32af682d7dbb65d0d70b4b04a56d45154.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\android\QR-Code\456\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="/Users/apple/homegit/456/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="9e8fe5b235bbaa87740136fc6858ae30e4e4eac3">
-        <dex dex="F:\android\QR-Code\456\app\build\intermediates\pre-dexed\debug\instant-run_30a58d586e20e3b0ae85cc6c7df724c484ff39b1.jar" />
+        sha1="9cb086b3fd7fe6f1e32def7f90d278d2fd245346">
+        <dex dex="/Users/apple/homegit/456/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_6a92080d6c956c8df2fa1d05381a2dd61eeafa69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/homegit/456/app/libs/core-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f852ac9a691288db67353bceb88de391aefb1afb">
+        <dex dex="/Users/apple/homegit/456/app/build/intermediates/pre-dexed/debug/core-3.3.1_e0fbc350b07487ef61b5a0e90f8db48ee37e3448.jar" />
     </item>
 
 </items>

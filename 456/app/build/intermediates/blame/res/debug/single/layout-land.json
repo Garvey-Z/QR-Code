@@ -1,10 +1,10 @@
 [
     {
-        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\share.xml",
-        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\layout-land\\share.xml"
+        "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/layout-land/encode.xml",
+        "source": "/Users/apple/homegit/456/app/src/main/res/layout-land/encode.xml"
     },
     {
-        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\encode.xml",
-        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\layout-land\\encode.xml"
+        "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/layout-land/share.xml",
+        "source": "/Users/apple/homegit/456/app/src/main/res/layout-land/share.xml"
     }
 ]

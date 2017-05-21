@@ -544,25 +544,24 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
 
     statusView.setVisibility(View.GONE);
     viewfinderView.setVisibility(View.GONE);
-    resultView.setVisibility(View.VISIBLE);
-
+    //resultView.setVisibility(View.VISIBLE);
     ImageView barcodeImageView = (ImageView) findViewById(R.id.barcode_image_view);
     if (barcode == null) {
       barcodeImageView.setImageBitmap(BitmapFactory.decodeResource(getResources(),
           R.drawable.launcher_icon));
     } else {
-      barcodeImageView.setImageBitmap(barcode);
+      //barcodeImageView.setImageBitmap(barcode);
     }
 
-    TextView formatTextView = (TextView) findViewById(R.id.format_text_view);
-    formatTextView.setText(rawResult.getBarcodeFormat().toString());
+    //TextView formatTextView = (TextView) findViewById(R.id.format_text_view);
+    //formatTextView.setText(rawResult.getBarcodeFormat().toString());
 
-    TextView typeTextView = (TextView) findViewById(R.id.type_text_view);
-    typeTextView.setText(resultHandler.getType().toString());
+    //TextView typeTextView = (TextView) findViewById(R.id.type_text_view);
+  //  typeTextView.setText(resultHandler.getType().toString());
 
-    DateFormat formatter = DateFormat.getDateTimeInstance(DateFormat.SHORT, DateFormat.SHORT);
-    TextView timeTextView = (TextView) findViewById(R.id.time_text_view);
-    timeTextView.setText(formatter.format(rawResult.getTimestamp()));
+   // DateFormat formatter = DateFormat.getDateTimeInstance(DateFormat.SHORT, DateFormat.SHORT);
+   // TextView timeTextView = (TextView) findViewById(R.id.time_text_view);
+   // timeTextView.setText(formatter.format(rawResult.getTimestamp()));
 
 
     TextView metaTextView = (TextView) findViewById(R.id.meta_text_view);
@@ -579,19 +578,33 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
       }
       if (metadataText.length() > 0) {
         metadataText.setLength(metadataText.length() - 1);
-        metaTextView.setText(metadataText);
+       // metaTextView.setText(metadataText);
         metaTextView.setVisibility(View.VISIBLE);
         metaTextViewLabel.setVisibility(View.VISIBLE);
       }
     }
 
     CharSequence displayContents = resultHandler.getDisplayContents();
-    TextView contentsTextView = (TextView) findViewById(R.id.contents_text_view);
-    contentsTextView.setText(displayContents);
-    int scaledSize = Math.max(22, 32 - displayContents.length() / 4);
-    contentsTextView.setTextSize(TypedValue.COMPLEX_UNIT_SP, scaledSize);
+    Toast.makeText(getApplicationContext(), displayContents.toString(), Toast.LENGTH_SHORT).show();
+    //TextView contentsTextView = (TextView) findViewById(R.id.contents_text_view);
+    //contentsTextView.setText(displayContents);
+   // int scaledSize = Math.max(22, 32 - displayContents.length() / 4);
+   // contentsTextView.setTextSize(TypedValue.COMPLEX_UNIT_SP, scaledSize);
 
-    TextView supplementTextView = (TextView) findViewById(R.id.contents_supplement_text_view);
+    SharedPreferences pre = getSharedPreferences("userData",MODE_PRIVATE);
+    String identity = pre.getString("identity","");
+    //identity = "administrator";
+    //identity = "customer";
+
+    Uri uri = Uri.parse(displayContents.toString()+"&identity=" + identity);
+    Intent it = new Intent(Intent.ACTION_VIEW, uri);
+    startActivity(it);
+    Log.d("uri", uri.toString());
+    finish();
+
+
+
+    /*TextView supplementTextView = (TextView) findViewById(R.id.contents_supplement_text_view);
     supplementTextView.setText("");
     supplementTextView.setOnClickListener(null);
     if (PreferenceManager.getDefaultSharedPreferences(this).getBoolean(
@@ -608,13 +621,13 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
     for (int x = 0; x < ResultHandler.MAX_BUTTON_COUNT; x++) {
       TextView button = (TextView) buttonView.getChildAt(x);
       if (x < buttonCount) {
-        button.setVisibility(View.VISIBLE);
+        //button.setVisibility(View.VISIBLE);
         button.setText(resultHandler.getButtonText(x));
         button.setOnClickListener(new ResultButtonListener(resultHandler, x));
       } else {
         button.setVisibility(View.GONE);
       }
-    }
+    }*/
 
   }
 

@@ -19,6 +19,9 @@ import android.widget.Toast;
 import com.google.zxing.client.android.R;
 import com.text.text1;
 
+import org.json.JSONArray;
+import org.json.JSONObject;
+
 import java.io.IOException;
 
 import okhttp3.FormBody;
@@ -49,7 +52,7 @@ public class Login extends Activity{
     //远程端地址
     private String url = "http://120.25.247.207:8081/getpwd.php";
 
-
+    private String indentity, val;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -67,14 +70,25 @@ public class Login extends Activity{
             Log.i("asdsdw","asdwwwwww" );
             switch (msg.what) {
                 case 1: {
-                    String val = (String)msg.obj;
+                    String str = (String)msg.obj;
                     String pwd = pwdEditText.getText().toString().trim();
-                    Log.i(val,pwd);
+                    Log.i("str", str);
+                    try {
+                        JSONObject info = new JSONObject(str);
+                        val = info.getString("password").toString();
+                        indentity = info.getString("identity").toString();
+                        Log.i("psw", val);
+                        Log.i("indentity", indentity);
+                        Log.i(val, pwd);
+                    }catch (Exception e){
+
+                    }
                     if (TextUtils.equals(pwd, val)) {
                         Toast.makeText(getApplicationContext(), "密码正确", Toast.LENGTH_SHORT).show();
-                        Intent intent = new Intent(Login.this, text1.class);
+                        Intent intent = new Intent(Login.this, My_Profile.class);
                         SharedPreferences.Editor editor = getSharedPreferences("userData",MODE_PRIVATE).edit();
                         editor.putString("account",userEditText.getText().toString().trim());
+                        editor.putString("identity",indentity);
                         editor.commit();
                         startActivity(intent);
                     }
@@ -107,8 +121,9 @@ public class Login extends Activity{
 
     }
 
-    String post(String url, String password) throws IOException {
-        RequestBody builder = new FormBody.Builder().add("account", password).build();
+    String post(String url, String account) throws IOException {
+        RequestBody builder = new FormBody.Builder().add("account", account).build();
+        Log.v("asd",account);
         Request request = new Request.Builder()
                 .url(url)
                 .post(builder)
@@ -118,6 +133,7 @@ public class Login extends Activity{
         if (response.isSuccessful())
         {
             return response.body().string();
+
         } else {
             throw new IOException("Unexpected code " + response);
         }
@@ -145,17 +161,17 @@ public class Login extends Activity{
                 //验证输入的验证码是否正确
                 if(etCheck.getText().toString()!=null&&etCheck.getText().toString().trim().length()>0)
                 {
-                    if (numStr.equalsIgnoreCase(etCheck.getText().toString().trim())){
+                    if (!numStr.equalsIgnoreCase(etCheck.getText().toString().trim())){
                         Toast.makeText(getApplicationContext(), "验证码正确", Toast.LENGTH_SHORT).show();
                         new Thread() {
                             @Override
                             public void run() {
                                 try
                                 {
-                                    String password = post(url, userEditText.getText().toString());
+                                    String str = post(url, userEditText.getText().toString());
                                     Message message = new Message();
                                     message.what = 1;
-                                    message.obj = password;
+                                    message.obj = str;
                                     handler.sendMessage(message);
                                 } catch (Exception ex)
                                 {
@@ -171,6 +187,7 @@ public class Login extends Activity{
                 }
             }else {
                 setNum();
+                Toast.makeText(getApplicationContext(),"请输入验证码",Toast.LENGTH_SHORT).show();
             }
 
 
