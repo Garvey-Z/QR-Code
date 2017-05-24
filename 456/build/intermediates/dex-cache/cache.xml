@@ -7,17 +7,8 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="e3754444ac7b2b1296e538ed10cbb1faa703ae91">
+        sha1="fd6d6770b9639a0234d046e4f5269c9a4d2eef23">
         <dex dex="/Users/apple/homegit/456/app/build/intermediates/pre-dexed/debug/instant-run_308da167457a8204ccfd2ed51b1e7debd9c78f4c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/homegit/456/app/libs/okhttp-3.8.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
-        <dex dex="/Users/apple/homegit/456/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_6f3daee466df53f491acfb71044bc1bceef052de.jar" />
     </item>
     <item
         is-multidex="false"
@@ -30,21 +21,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/apple/homegit/456/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9cb086b3fd7fe6f1e32def7f90d278d2fd245346">
-        <dex dex="/Users/apple/homegit/456/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_6a92080d6c956c8df2fa1d05381a2dd61eeafa69.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/apple/homegit/456/app/libs/core-3.3.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="f852ac9a691288db67353bceb88de391aefb1afb">
         <dex dex="/Users/apple/homegit/456/app/build/intermediates/pre-dexed/debug/core-3.3.1_e0fbc350b07487ef61b5a0e90f8db48ee37e3448.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/homegit/456/app/libs/okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/apple/homegit/456/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_6f3daee466df53f491acfb71044bc1bceef052de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/homegit/456/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c28b8be106d1e71773449729538aa26093d9eb5f">
+        <dex dex="/Users/apple/homegit/456/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_6a92080d6c956c8df2fa1d05381a2dd61eeafa69.jar" />
     </item>
 
 </items>

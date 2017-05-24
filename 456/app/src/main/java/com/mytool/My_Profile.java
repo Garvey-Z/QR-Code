@@ -122,6 +122,9 @@ public class My_Profile extends Activity implements View.OnClickListener{
                 Intent intent2 = new Intent(My_Profile.this, Create_QR_Code.class);
                 startActivity(intent2);
                 break;
+            case R.id.menu_quit:
+                Intent intent3 = new Intent(My_Profile.this, Login.class);
+                startActivity(intent3);
             default:
                 return super.onOptionsItemSelected(item);
         }

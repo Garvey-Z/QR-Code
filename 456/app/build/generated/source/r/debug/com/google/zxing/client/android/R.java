@@ -130,6 +130,7 @@ public final class R {
         public static final int menu_history=0x7f0b0062;
         public static final int menu_history_clear_text=0x7f0b0067;
         public static final int menu_history_send=0x7f0b0066;
+        public static final int menu_quit=0x7f0b006a;
         public static final int menu_scan=0x7f0b0068;
         public static final int menu_settings=0x7f0b0063;
         public static final int menu_share=0x7f0b0061;
@@ -148,8 +149,8 @@ public final class R {
         public static final int next_name=0x7f0b004e;
         public static final int next_phone=0x7f0b0054;
         public static final int next_photo=0x7f0b004c;
-        public static final int open_camera=0x7f0b006a;
-        public static final int open_gallery=0x7f0b006b;
+        public static final int open_camera=0x7f0b006b;
+        public static final int open_gallery=0x7f0b006c;
         public static final int page_number_view=0x7f0b005a;
         public static final int preview_view=0x7f0b000b;
         public static final int query_button=0x7f0b0058;

@@ -110,6 +110,9 @@ public class Login extends Activity{
         ivNum.setOnClickListener(new OnClickListenerImpl());
 
         etCheck = (EditText) findViewById(R.id.login_etCheck);
+        userEditText.setText("");
+        pwdEditText.setText("");
+        etCheck.setText("");
 
         setNum();
     }
@@ -158,10 +161,10 @@ public class Login extends Activity{
                     Toast.makeText(Login.this,"账户或密码不能为空",Toast.LENGTH_SHORT).show();
                 }
 
-                //验证输入的验证码是否正确
                 if(etCheck.getText().toString()!=null&&etCheck.getText().toString().trim().length()>0)
                 {
-                    if (!numStr.equalsIgnoreCase(etCheck.getText().toString().trim())){
+                    //验证输入的验证码是否正确
+                    if (numStr.equalsIgnoreCase(etCheck.getText().toString().trim())){
                         Toast.makeText(getApplicationContext(), "验证码正确", Toast.LENGTH_SHORT).show();
                         new Thread() {
                             @Override
@@ -184,10 +187,12 @@ public class Login extends Activity{
                         Toast.makeText(getApplicationContext(), "验证码错误",Toast.LENGTH_SHORT).show();
                         setNum();
                     }
+                }else {
+                    setNum();
+                    Toast.makeText(getApplicationContext(),"请输入验证码",Toast.LENGTH_SHORT).show();
                 }
             }else {
                 setNum();
-                Toast.makeText(getApplicationContext(),"请输入验证码",Toast.LENGTH_SHORT).show();
             }
 
 

@@ -12,7 +12,15 @@
                     "endOffset": 828
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/arrays.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 696,
+                        "endLine": 50,
+                        "endColumn": 17,
+                        "endOffset": 1459
+                    }
                 }
             },
             {
@@ -25,7 +33,15 @@
                     "endOffset": 1063
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/arrays.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 2,
+                        "startOffset": 1638,
+                        "endLine": 60,
+                        "endColumn": 17,
+                        "endOffset": 1872
+                    }
                 }
             },
             {
@@ -38,7 +54,15 @@
                     "endOffset": 1233
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/arrays.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 2,
+                        "startOffset": 1463,
+                        "endLine": 55,
+                        "endColumn": 17,
+                        "endOffset": 1634
+                    }
                 }
             },
             {
@@ -50,7 +74,14 @@
                     "endOffset": 1280
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 2,
+                        "startOffset": 1573,
+                        "endColumn": 44,
+                        "endOffset": 1615
+                    }
                 }
             },
             {
@@ -62,7 +93,14 @@
                     "endOffset": 1322
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 2,
+                        "startOffset": 1619,
+                        "endColumn": 39,
+                        "endOffset": 1656
+                    }
                 }
             },
             {
@@ -74,7 +112,14 @@
                     "endOffset": 1365
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 2,
+                        "startOffset": 1822,
+                        "endColumn": 40,
+                        "endOffset": 1860
+                    }
                 }
             },
             {
@@ -86,7 +131,14 @@
                     "endOffset": 1411
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 1528,
+                        "endColumn": 43,
+                        "endOffset": 1569
+                    }
                 }
             },
             {
@@ -98,7 +150,14 @@
                     "endOffset": 1458
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 2,
+                        "startOffset": 1432,
+                        "endColumn": 44,
+                        "endOffset": 1474
+                    }
                 }
             },
             {
@@ -110,7 +169,14 @@
                     "endOffset": 1509
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 2,
+                        "startOffset": 1478,
+                        "endColumn": 48,
+                        "endOffset": 1524
+                    }
                 }
             },
             {
@@ -122,7 +188,14 @@
                     "endOffset": 1559
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 649,
+                        "endColumn": 47,
+                        "endOffset": 694
+                    }
                 }
             },
             {
@@ -134,7 +207,14 @@
                     "endOffset": 1608
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 2,
+                        "startOffset": 2301,
+                        "endColumn": 46,
+                        "endOffset": 2345
+                    }
                 }
             },
             {
@@ -146,7 +226,14 @@
                     "endOffset": 1656
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 698,
+                        "endColumn": 45,
+                        "endOffset": 741
+                    }
                 }
             },
             {
@@ -158,7 +245,14 @@
                     "endOffset": 1701
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 2,
+                        "startOffset": 2167,
+                        "endColumn": 42,
+                        "endOffset": 2207
+                    }
                 }
             },
             {
@@ -170,7 +264,14 @@
                     "endOffset": 1740
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 2,
+                        "startOffset": 2031,
+                        "endColumn": 36,
+                        "endOffset": 2065
+                    }
                 }
             },
             {
@@ -182,7 +283,14 @@
                     "endOffset": 1786
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 2,
+                        "startOffset": 2211,
+                        "endColumn": 43,
+                        "endOffset": 2252
+                    }
                 }
             },
             {
@@ -194,7 +302,14 @@
                     "endOffset": 1825
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 2,
+                        "startOffset": 1864,
+                        "endColumn": 36,
+                        "endOffset": 1898
+                    }
                 }
             },
             {
@@ -206,7 +321,14 @@
                     "endOffset": 1869
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 2,
+                        "startOffset": 1902,
+                        "endColumn": 41,
+                        "endOffset": 1941
+                    }
                 }
             },
             {
@@ -218,7 +340,14 @@
                     "endOffset": 1911
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1304,
+                        "endColumn": 39,
+                        "endOffset": 1341
+                    }
                 }
             },
             {
@@ -230,7 +359,14 @@
                     "endOffset": 1956
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 2,
+                        "startOffset": 1388,
+                        "endColumn": 42,
+                        "endOffset": 1428
+                    }
                 }
             },
             {
@@ -242,7 +378,14 @@
                     "endOffset": 2000
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1345,
+                        "endColumn": 41,
+                        "endOffset": 1384
+                    }
                 }
             },
             {
@@ -254,7 +397,14 @@
                     "endOffset": 2055
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 2,
+                        "startOffset": 2351,
+                        "endColumn": 52,
+                        "endOffset": 2401
+                    }
                 }
             },
             {
@@ -266,7 +416,14 @@
                     "endOffset": 2111
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 2,
+                        "startOffset": 2405,
+                        "endColumn": 53,
+                        "endOffset": 2456
+                    }
                 }
             },
             {
@@ -278,7 +435,14 @@
                     "endOffset": 2161
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 2,
+                        "startOffset": 2462,
+                        "endColumn": 47,
+                        "endOffset": 2507
+                    }
                 }
             },
             {
@@ -290,7 +454,14 @@
                     "endOffset": 2212
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 2,
+                        "startOffset": 2511,
+                        "endColumn": 48,
+                        "endOffset": 2557
+                    }
                 }
             },
             {
@@ -302,7 +473,14 @@
                     "endOffset": 2260
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 2,
+                        "startOffset": 2120,
+                        "endColumn": 45,
+                        "endOffset": 2163
+                    }
                 }
             },
             {
@@ -314,7 +492,14 @@
                     "endOffset": 2301
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 2,
+                        "startOffset": 1945,
+                        "endColumn": 38,
+                        "endOffset": 1981
+                    }
                 }
             },
             {
@@ -326,7 +511,14 @@
                     "endOffset": 2348
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 2,
+                        "startOffset": 1985,
+                        "endColumn": 44,
+                        "endOffset": 2027
+                    }
                 }
             },
             {
@@ -338,7 +530,14 @@
                     "endOffset": 2391
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 2,
+                        "startOffset": 1743,
+                        "endColumn": 40,
+                        "endOffset": 1781
+                    }
                 }
             },
             {
@@ -350,7 +549,14 @@
                     "endOffset": 2450
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 745,
+                        "endColumn": 56,
+                        "endOffset": 799
+                    }
                 }
             },
             {
@@ -362,7 +568,14 @@
                     "endOffset": 2488
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 2,
+                        "startOffset": 1785,
+                        "endColumn": 35,
+                        "endOffset": 1818
+                    }
                 }
             },
             {
@@ -374,7 +587,14 @@
                     "endOffset": 2542
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 839,
+                        "endColumn": 51,
+                        "endOffset": 888
+                    }
                 }
             },
             {
@@ -386,7 +606,14 @@
                     "endOffset": 2592
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 892,
+                        "endColumn": 47,
+                        "endOffset": 937
+                    }
                 }
             },
             {
@@ -398,7 +625,14 @@
                     "endOffset": 2640
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 977,
+                        "endColumn": 45,
+                        "endOffset": 1020
+                    }
                 }
             },
             {
@@ -410,7 +644,14 @@
                     "endOffset": 2688
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 1024,
+                        "endColumn": 45,
+                        "endOffset": 1067
+                    }
                 }
             },
             {
@@ -422,7 +663,14 @@
                     "endOffset": 2740
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 2,
+                        "startOffset": 2069,
+                        "endColumn": 49,
+                        "endOffset": 2116
+                    }
                 }
             },
             {
@@ -434,7 +682,14 @@
                     "endOffset": 2788
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 1071,
+                        "endColumn": 45,
+                        "endOffset": 1114
+                    }
                 }
             },
             {
@@ -446,7 +701,14 @@
                     "endOffset": 2837
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 2,
+                        "startOffset": 2563,
+                        "endColumn": 46,
+                        "endOffset": 2607
+                    }
                 }
             },
             {
@@ -458,7 +720,14 @@
                     "endOffset": 2885
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 1118,
+                        "endColumn": 45,
+                        "endOffset": 1161
+                    }
                 }
             },
             {
@@ -470,7 +739,14 @@
                     "endOffset": 2938
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1165,
+                        "endColumn": 50,
+                        "endOffset": 1213
+                    }
                 }
             },
             {
@@ -482,7 +758,14 @@
                     "endOffset": 2990
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1253,
+                        "endColumn": 49,
+                        "endOffset": 1300
+                    }
                 }
             },
             {
@@ -494,7 +777,14 @@
                     "endOffset": 3032
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 2,
+                        "startOffset": 1660,
+                        "endColumn": 39,
+                        "endOffset": 1697
+                    }
                 }
             },
             {
@@ -506,7 +796,14 @@
                     "endOffset": 3078
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 2,
+                        "startOffset": 2256,
+                        "endColumn": 43,
+                        "endOffset": 2297
+                    }
                 }
             },
             {
@@ -518,7 +815,14 @@
                     "endOffset": 3121
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 2,
+                        "startOffset": 1701,
+                        "endColumn": 40,
+                        "endOffset": 1739
+                    }
                 }
             },
             {
@@ -530,7 +834,14 @@
                     "endOffset": 3178
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/dimens.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 737,
+                        "endColumn": 54,
+                        "endOffset": 789
+                    }
                 }
             },
             {
@@ -542,7 +853,14 @@
                     "endOffset": 3240
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/dimens.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 951,
+                        "endColumn": 59,
+                        "endOffset": 1008
+                    }
                 }
             },
             {
@@ -554,7 +872,14 @@
                     "endOffset": 3293
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/dimens.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 1012,
+                        "endColumn": 50,
+                        "endOffset": 1060
+                    }
                 }
             },
             {
@@ -566,7 +891,14 @@
                     "endOffset": 3348
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/dimens.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 793,
+                        "endColumn": 52,
+                        "endOffset": 843
+                    }
                 }
             },
             {
@@ -578,7 +910,14 @@
                     "endOffset": 3408
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/dimens.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 892,
+                        "endColumn": 57,
+                        "endOffset": 947
+                    }
                 }
             },
             {
@@ -590,7 +929,14 @@
                     "endOffset": 3451
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/dimens.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 695,
+                        "endColumn": 40,
+                        "endOffset": 733
+                    }
                 }
             },
             {
@@ -602,7 +948,14 @@
                     "endOffset": 3497
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/dimens.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 847,
+                        "endColumn": 43,
+                        "endOffset": 888
+                    }
                 }
             },
             {
@@ -614,7 +967,14 @@
                     "endOffset": 3544
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/dimens.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 649,
+                        "endColumn": 44,
+                        "endOffset": 691
+                    }
                 }
             },
             {
@@ -626,7 +986,14 @@
                     "endOffset": 3580
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/ids.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 649,
+                        "endColumn": 33,
+                        "endOffset": 680
+                    }
                 }
             },
             {
@@ -638,7 +1005,14 @@
                     "endOffset": 3623
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/ids.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 684,
+                        "endColumn": 40,
+                        "endOffset": 722
+                    }
                 }
             },
             {
@@ -650,7 +1024,14 @@
                     "endOffset": 3669
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/ids.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 726,
+                        "endColumn": 43,
+                        "endOffset": 767
+                    }
                 }
             },
             {
@@ -662,7 +1043,14 @@
                     "endOffset": 3719
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/ids.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 771,
+                        "endColumn": 47,
+                        "endOffset": 816
+                    }
                 }
             },
             {
@@ -674,7 +1062,14 @@
                     "endOffset": 3753
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/ids.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 820,
+                        "endColumn": 31,
+                        "endOffset": 849
+                    }
                 }
             },
             {
@@ -686,7 +1081,14 @@
                     "endOffset": 3798
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/ids.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 853,
+                        "endColumn": 42,
+                        "endOffset": 893
+                    }
                 }
             },
             {
@@ -698,7 +1100,14 @@
                     "endOffset": 3846
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/ids.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 897,
+                        "endColumn": 45,
+                        "endOffset": 940
+                    }
                 }
             },
             {
@@ -710,7 +1119,14 @@
                     "endOffset": 3899
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 649,
+                        "endColumn": 50,
+                        "endOffset": 697
+                    }
                 }
             },
             {
@@ -722,7 +1138,14 @@
                     "endOffset": 3956
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 701,
+                        "endColumn": 54,
+                        "endOffset": 753
+                    }
                 }
             },
             {
@@ -734,7 +1157,14 @@
                     "endOffset": 4015
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 757,
+                        "endColumn": 56,
+                        "endOffset": 811
+                    }
                 }
             },
             {
@@ -746,7 +1176,14 @@
                     "endOffset": 4079
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 815,
+                        "endColumn": 61,
+                        "endOffset": 874
+                    }
                 }
             },
             {
@@ -758,7 +1195,14 @@
                     "endOffset": 4138
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 878,
+                        "endColumn": 56,
+                        "endOffset": 932
+                    }
                 }
             },
             {
@@ -770,7 +1214,14 @@
                     "endOffset": 4197
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 936,
+                        "endColumn": 56,
+                        "endOffset": 990
+                    }
                 }
             },
             {
@@ -782,7 +1233,14 @@
                     "endOffset": 4246
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 994,
+                        "endColumn": 46,
+                        "endOffset": 1038
+                    }
                 }
             },
             {
@@ -794,7 +1252,14 @@
                     "endOffset": 4317
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 1042,
+                        "endColumn": 68,
+                        "endOffset": 1108
+                    }
                 }
             },
             {
@@ -806,7 +1271,14 @@
                     "endOffset": 4369
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 1112,
+                        "endColumn": 49,
+                        "endOffset": 1159
+                    }
                 }
             },
             {
@@ -818,7 +1290,14 @@
                     "endOffset": 4421
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1163,
+                        "endColumn": 49,
+                        "endOffset": 1210
+                    }
                 }
             },
             {
@@ -830,7 +1309,14 @@
                     "endOffset": 4486
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1214,
+                        "endColumn": 62,
+                        "endOffset": 1274
+                    }
                 }
             },
             {
@@ -842,7 +1328,14 @@
                     "endOffset": 4534
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1278,
+                        "endColumn": 45,
+                        "endOffset": 1321
+                    }
                 }
             },
             {
@@ -854,7 +1347,14 @@
                     "endOffset": 4575
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1325,
+                        "endColumn": 38,
+                        "endOffset": 1361
+                    }
                 }
             },
             {
@@ -866,7 +1366,14 @@
                     "endOffset": 4636
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 2,
+                        "startOffset": 1365,
+                        "endColumn": 58,
+                        "endOffset": 1421
+                    }
                 }
             },
             {
@@ -878,7 +1385,14 @@
                     "endOffset": 4701
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 2,
+                        "startOffset": 1425,
+                        "endColumn": 62,
+                        "endOffset": 1485
+                    }
                 }
             },
             {
@@ -890,7 +1404,14 @@
                     "endOffset": 4773
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 2,
+                        "startOffset": 1489,
+                        "endColumn": 69,
+                        "endOffset": 1556
+                    }
                 }
             },
             {
@@ -902,7 +1423,14 @@
                     "endOffset": 4830
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 1560,
+                        "endColumn": 54,
+                        "endOffset": 1612
+                    }
                 }
             },
             {
@@ -914,7 +1442,14 @@
                     "endOffset": 4889
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 2,
+                        "startOffset": 1616,
+                        "endColumn": 56,
+                        "endOffset": 1670
+                    }
                 }
             },
             {
@@ -926,7 +1461,14 @@
                     "endOffset": 4955
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 2,
+                        "startOffset": 1674,
+                        "endColumn": 63,
+                        "endOffset": 1735
+                    }
                 }
             },
             {
@@ -938,7 +1480,14 @@
                     "endOffset": 5017
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 2,
+                        "startOffset": 1739,
+                        "endColumn": 59,
+                        "endOffset": 1796
+                    }
                 }
             },
             {
@@ -950,7 +1499,14 @@
                     "endOffset": 5078
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 2,
+                        "startOffset": 1800,
+                        "endColumn": 58,
+                        "endOffset": 1856
+                    }
                 }
             },
             {
@@ -962,7 +1518,14 @@
                     "endOffset": 5135
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 2,
+                        "startOffset": 1860,
+                        "endColumn": 54,
+                        "endOffset": 1912
+                    }
                 }
             },
             {
@@ -974,7 +1537,14 @@
                     "endOffset": 5188
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 2,
+                        "startOffset": 1916,
+                        "endColumn": 50,
+                        "endOffset": 1964
+                    }
                 }
             },
             {
@@ -986,7 +1556,14 @@
                     "endOffset": 5236
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 2,
+                        "startOffset": 1968,
+                        "endColumn": 45,
+                        "endOffset": 2011
+                    }
                 }
             },
             {
@@ -998,7 +1575,14 @@
                     "endOffset": 5293
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 2,
+                        "startOffset": 2015,
+                        "endColumn": 54,
+                        "endOffset": 2067
+                    }
                 }
             },
             {
@@ -1010,7 +1594,14 @@
                     "endOffset": 5352
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 2,
+                        "startOffset": 2071,
+                        "endColumn": 56,
+                        "endOffset": 2125
+                    }
                 }
             },
             {
@@ -1022,7 +1613,14 @@
                     "endOffset": 5410
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 2,
+                        "startOffset": 2129,
+                        "endColumn": 55,
+                        "endOffset": 2182
+                    }
                 }
             },
             {
@@ -1034,7 +1632,14 @@
                     "endOffset": 5467
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 2,
+                        "startOffset": 2186,
+                        "endColumn": 54,
+                        "endOffset": 2238
+                    }
                 }
             },
             {
@@ -1046,7 +1651,14 @@
                     "endOffset": 5536
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 2,
+                        "startOffset": 2242,
+                        "endColumn": 66,
+                        "endOffset": 2306
+                    }
                 }
             },
             {
@@ -1058,7 +1670,14 @@
                     "endOffset": 5592
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 2,
+                        "startOffset": 2310,
+                        "endColumn": 53,
+                        "endOffset": 2361
+                    }
                 }
             },
             {
@@ -1070,7 +1689,14 @@
                     "endOffset": 5645
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 2,
+                        "startOffset": 2365,
+                        "endColumn": 50,
+                        "endOffset": 2413
+                    }
                 }
             },
             {
@@ -1082,7 +1708,14 @@
                     "endOffset": 5698
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 2,
+                        "startOffset": 2417,
+                        "endColumn": 50,
+                        "endOffset": 2465
+                    }
                 }
             },
             {
@@ -1094,7 +1727,14 @@
                     "endOffset": 5763
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 2,
+                        "startOffset": 2529,
+                        "endColumn": 62,
+                        "endOffset": 2589
+                    }
                 }
             },
             {
@@ -1106,7 +1746,14 @@
                     "endOffset": 5824
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 2,
+                        "startOffset": 2469,
+                        "endColumn": 58,
+                        "endOffset": 2525
+                    }
                 }
             },
             {
@@ -1118,7 +1765,14 @@
                     "endOffset": 5896
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 2,
+                        "startOffset": 2593,
+                        "endColumn": 69,
+                        "endOffset": 2660
+                    }
                 }
             },
             {
@@ -1130,7 +1784,14 @@
                     "endOffset": 5944
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 2,
+                        "startOffset": 2664,
+                        "endColumn": 45,
+                        "endOffset": 2707
+                    }
                 }
             },
             {
@@ -1142,7 +1803,14 @@
                     "endOffset": 6029
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 2,
+                        "startOffset": 2711,
+                        "endColumn": 82,
+                        "endOffset": 2791
+                    }
                 }
             },
             {
@@ -1154,7 +1822,14 @@
                     "endOffset": 6083
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 2,
+                        "startOffset": 2795,
+                        "endColumn": 51,
+                        "endOffset": 2844
+                    }
                 }
             },
             {
@@ -1166,7 +1841,14 @@
                     "endOffset": 6133
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 2,
+                        "startOffset": 2848,
+                        "endColumn": 47,
+                        "endOffset": 2893
+                    }
                 }
             },
             {
@@ -1178,7 +1860,14 @@
                     "endOffset": 6191
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 2,
+                        "startOffset": 2897,
+                        "endColumn": 55,
+                        "endOffset": 2950
+                    }
                 }
             },
             {
@@ -1190,7 +1879,14 @@
                     "endOffset": 6247
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 2,
+                        "startOffset": 2954,
+                        "endColumn": 53,
+                        "endOffset": 3005
+                    }
                 }
             },
             {
@@ -1202,7 +1898,14 @@
                     "endOffset": 6290
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 2,
+                        "startOffset": 3009,
+                        "endColumn": 40,
+                        "endOffset": 3047
+                    }
                 }
             },
             {
@@ -1214,7 +1917,14 @@
                     "endOffset": 6339
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 2,
+                        "startOffset": 3051,
+                        "endColumn": 46,
+                        "endOffset": 3095
+                    }
                 }
             },
             {
@@ -1226,7 +1936,14 @@
                     "endOffset": 6390
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 2,
+                        "startOffset": 3099,
+                        "endColumn": 48,
+                        "endOffset": 3145
+                    }
                 }
             },
             {
@@ -1238,7 +1955,14 @@
                     "endOffset": 6435
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 2,
+                        "startOffset": 3149,
+                        "endColumn": 42,
+                        "endOffset": 3189
+                    }
                 }
             },
             {
@@ -1250,7 +1974,14 @@
                     "endOffset": 6522
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 2,
+                        "startOffset": 3193,
+                        "endColumn": 84,
+                        "endOffset": 3275
+                    }
                 }
             },
             {
@@ -1262,7 +1993,14 @@
                     "endOffset": 6660
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 2,
+                        "startOffset": 3279,
+                        "endColumn": 135,
+                        "endOffset": 3412
+                    }
                 }
             },
             {
@@ -1274,7 +2012,14 @@
                     "endOffset": 6714
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 2,
+                        "startOffset": 3416,
+                        "endColumn": 51,
+                        "endOffset": 3465
+                    }
                 }
             },
             {
@@ -1286,7 +2031,14 @@
                     "endOffset": 6768
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 2,
+                        "startOffset": 3469,
+                        "endColumn": 51,
+                        "endOffset": 3518
+                    }
                 }
             },
             {
@@ -1298,7 +2050,14 @@
                     "endOffset": 6823
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 2,
+                        "startOffset": 3522,
+                        "endColumn": 52,
+                        "endOffset": 3572
+                    }
                 }
             },
             {
@@ -1310,7 +2069,14 @@
                     "endOffset": 6930
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 2,
+                        "startOffset": 3576,
+                        "endColumn": 104,
+                        "endOffset": 3678
+                    }
                 }
             },
             {
@@ -1322,7 +2088,14 @@
                     "endOffset": 6980
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 2,
+                        "startOffset": 3682,
+                        "endColumn": 47,
+                        "endOffset": 3727
+                    }
                 }
             },
             {
@@ -1334,7 +2107,14 @@
                     "endOffset": 7030
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 2,
+                        "startOffset": 3731,
+                        "endColumn": 47,
+                        "endOffset": 3776
+                    }
                 }
             },
             {
@@ -1346,7 +2126,14 @@
                     "endOffset": 7136
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 2,
+                        "startOffset": 3780,
+                        "endColumn": 103,
+                        "endOffset": 3881
+                    }
                 }
             },
             {
@@ -1358,7 +2145,14 @@
                     "endOffset": 7180
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 2,
+                        "startOffset": 3885,
+                        "endColumn": 41,
+                        "endOffset": 3924
+                    }
                 }
             },
             {
@@ -1370,7 +2164,14 @@
                     "endOffset": 7232
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 2,
+                        "startOffset": 3928,
+                        "endColumn": 49,
+                        "endOffset": 3975
+                    }
                 }
             },
             {
@@ -1382,7 +2183,14 @@
                     "endOffset": 7286
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 2,
+                        "startOffset": 3979,
+                        "endColumn": 51,
+                        "endOffset": 4028
+                    }
                 }
             },
             {
@@ -1394,7 +2202,14 @@
                     "endOffset": 7425
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 2,
+                        "startOffset": 4032,
+                        "endColumn": 136,
+                        "endOffset": 4166
+                    }
                 }
             },
             {
@@ -1406,7 +2221,14 @@
                     "endOffset": 7485
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 2,
+                        "startOffset": 4170,
+                        "endColumn": 57,
+                        "endOffset": 4225
+                    }
                 }
             },
             {
@@ -1418,7 +2240,14 @@
                     "endOffset": 7535
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 2,
+                        "startOffset": 4229,
+                        "endColumn": 47,
+                        "endOffset": 4274
+                    }
                 }
             },
             {
@@ -1430,7 +2259,14 @@
                     "endOffset": 7627
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 2,
+                        "startOffset": 4278,
+                        "endColumn": 89,
+                        "endOffset": 4365
+                    }
                 }
             },
             {
@@ -1442,7 +2278,14 @@
                     "endOffset": 7711
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 2,
+                        "startOffset": 4369,
+                        "endColumn": 81,
+                        "endOffset": 4448
+                    }
                 }
             },
             {
@@ -1454,7 +2297,14 @@
                     "endOffset": 7781
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 2,
+                        "startOffset": 4452,
+                        "endColumn": 67,
+                        "endOffset": 4517
+                    }
                 }
             },
             {
@@ -1466,7 +2316,14 @@
                     "endOffset": 7827
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 2,
+                        "startOffset": 4521,
+                        "endColumn": 43,
+                        "endOffset": 4562
+                    }
                 }
             },
             {
@@ -1478,7 +2335,14 @@
                     "endOffset": 7879
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 2,
+                        "startOffset": 4566,
+                        "endColumn": 49,
+                        "endOffset": 4613
+                    }
                 }
             },
             {
@@ -1490,7 +2354,14 @@
                     "endOffset": 7951
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 2,
+                        "startOffset": 4617,
+                        "endColumn": 69,
+                        "endOffset": 4684
+                    }
                 }
             },
             {
@@ -1502,7 +2373,14 @@
                     "endOffset": 8029
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 2,
+                        "startOffset": 4688,
+                        "endColumn": 75,
+                        "endOffset": 4761
+                    }
                 }
             },
             {
@@ -1514,7 +2392,14 @@
                     "endOffset": 8173
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 2,
+                        "startOffset": 4765,
+                        "endColumn": 141,
+                        "endOffset": 4904
+                    }
                 }
             },
             {
@@ -1526,7 +2411,14 @@
                     "endOffset": 8250
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 2,
+                        "startOffset": 4908,
+                        "endColumn": 74,
+                        "endOffset": 4980
+                    }
                 }
             },
             {
@@ -1538,7 +2430,14 @@
                     "endOffset": 8301
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 2,
+                        "startOffset": 4984,
+                        "endColumn": 48,
+                        "endOffset": 5030
+                    }
                 }
             },
             {
@@ -1550,7 +2449,14 @@
                     "endOffset": 8383
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 2,
+                        "startOffset": 5034,
+                        "endColumn": 79,
+                        "endOffset": 5111
+                    }
                 }
             },
             {
@@ -1562,7 +2468,14 @@
                     "endOffset": 8467
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 2,
+                        "startOffset": 5115,
+                        "endColumn": 81,
+                        "endOffset": 5194
+                    }
                 }
             },
             {
@@ -1574,7 +2487,14 @@
                     "endOffset": 8539
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 2,
+                        "startOffset": 5198,
+                        "endColumn": 69,
+                        "endOffset": 5265
+                    }
                 }
             },
             {
@@ -1586,7 +2506,14 @@
                     "endOffset": 8628
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 2,
+                        "startOffset": 5269,
+                        "endColumn": 86,
+                        "endOffset": 5353
+                    }
                 }
             },
             {
@@ -1598,7 +2525,14 @@
                     "endOffset": 8727
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 2,
+                        "startOffset": 5357,
+                        "endColumn": 96,
+                        "endOffset": 5451
+                    }
                 }
             },
             {
@@ -1610,7 +2544,14 @@
                     "endOffset": 8798
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 2,
+                        "startOffset": 5455,
+                        "endColumn": 68,
+                        "endOffset": 5521
+                    }
                 }
             },
             {
@@ -1622,7 +2563,14 @@
                     "endOffset": 8880
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 2,
+                        "startOffset": 5525,
+                        "endColumn": 79,
+                        "endOffset": 5602
+                    }
                 }
             },
             {
@@ -1634,7 +2582,14 @@
                     "endOffset": 9021
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 2,
+                        "startOffset": 5606,
+                        "endColumn": 138,
+                        "endOffset": 5742
+                    }
                 }
             },
             {
@@ -1646,7 +2601,14 @@
                     "endOffset": 9107
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 2,
+                        "startOffset": 5746,
+                        "endColumn": 83,
+                        "endOffset": 5827
+                    }
                 }
             },
             {
@@ -1658,7 +2620,14 @@
                     "endOffset": 9188
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 2,
+                        "startOffset": 5831,
+                        "endColumn": 78,
+                        "endOffset": 5907
+                    }
                 }
             },
             {
@@ -1670,7 +2639,14 @@
                     "endOffset": 9263
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 2,
+                        "startOffset": 5911,
+                        "endColumn": 72,
+                        "endOffset": 5981
+                    }
                 }
             },
             {
@@ -1682,7 +2658,14 @@
                     "endOffset": 9328
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 2,
+                        "startOffset": 5985,
+                        "endColumn": 62,
+                        "endOffset": 6045
+                    }
                 }
             },
             {
@@ -1694,7 +2677,14 @@
                     "endOffset": 9405
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 2,
+                        "startOffset": 6049,
+                        "endColumn": 74,
+                        "endOffset": 6121
+                    }
                 }
             },
             {
@@ -1706,7 +2696,14 @@
                     "endOffset": 9476
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 2,
+                        "startOffset": 6125,
+                        "endColumn": 68,
+                        "endOffset": 6191
+                    }
                 }
             },
             {
@@ -1718,7 +2715,14 @@
                     "endOffset": 9541
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 2,
+                        "startOffset": 6195,
+                        "endColumn": 62,
+                        "endOffset": 6255
+                    }
                 }
             },
             {
@@ -1730,7 +2734,14 @@
                     "endOffset": 9633
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 2,
+                        "startOffset": 6259,
+                        "endColumn": 89,
+                        "endOffset": 6346
+                    }
                 }
             },
             {
@@ -1742,7 +2753,14 @@
                     "endOffset": 9728
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 2,
+                        "startOffset": 6350,
+                        "endColumn": 92,
+                        "endOffset": 6440
+                    }
                 }
             },
             {
@@ -1754,7 +2772,14 @@
                     "endOffset": 9830
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 2,
+                        "startOffset": 6444,
+                        "endColumn": 99,
+                        "endOffset": 6541
+                    }
                 }
             },
             {
@@ -1766,7 +2791,14 @@
                     "endOffset": 9921
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 2,
+                        "startOffset": 6545,
+                        "endColumn": 88,
+                        "endOffset": 6631
+                    }
                 }
             },
             {
@@ -1778,7 +2810,14 @@
                     "endOffset": 9996
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 2,
+                        "startOffset": 6635,
+                        "endColumn": 72,
+                        "endOffset": 6705
+                    }
                 }
             },
             {
@@ -1790,7 +2829,14 @@
                     "endOffset": 10071
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 2,
+                        "startOffset": 6709,
+                        "endColumn": 72,
+                        "endOffset": 6779
+                    }
                 }
             },
             {
@@ -1802,7 +2848,14 @@
                     "endOffset": 10138
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 2,
+                        "startOffset": 7012,
+                        "endColumn": 64,
+                        "endOffset": 7074
+                    }
                 }
             },
             {
@@ -1814,7 +2867,14 @@
                     "endOffset": 10198
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 2,
+                        "startOffset": 7078,
+                        "endColumn": 57,
+                        "endOffset": 7133
+                    }
                 }
             },
             {
@@ -1826,7 +2886,14 @@
                     "endOffset": 10256
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 2,
+                        "startOffset": 7137,
+                        "endColumn": 55,
+                        "endOffset": 7190
+                    }
                 }
             },
             {
@@ -1838,7 +2905,14 @@
                     "endOffset": 10413
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 2,
+                        "startOffset": 6783,
+                        "endColumn": 154,
+                        "endOffset": 6935
+                    }
                 }
             },
             {
@@ -1850,7 +2924,14 @@
                     "endOffset": 10487
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 2,
+                        "startOffset": 6939,
+                        "endColumn": 71,
+                        "endOffset": 7008
+                    }
                 }
             },
             {
@@ -1862,7 +2943,14 @@
                     "endOffset": 10558
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 2,
+                        "startOffset": 7194,
+                        "endColumn": 68,
+                        "endOffset": 7260
+                    }
                 }
             },
             {
@@ -1874,7 +2962,14 @@
                     "endOffset": 10642
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 2,
+                        "startOffset": 7264,
+                        "endColumn": 81,
+                        "endOffset": 7343
+                    }
                 }
             },
             {
@@ -1886,7 +2981,14 @@
                     "endOffset": 10711
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 2,
+                        "startOffset": 7347,
+                        "endColumn": 66,
+                        "endOffset": 7411
+                    }
                 }
             },
             {
@@ -1898,7 +3000,14 @@
                     "endOffset": 10847
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 2,
+                        "startOffset": 7484,
+                        "endColumn": 133,
+                        "endOffset": 7615
+                    }
                 }
             },
             {
@@ -1910,7 +3019,14 @@
                     "endOffset": 10917
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 2,
+                        "startOffset": 7415,
+                        "endColumn": 67,
+                        "endOffset": 7480
+                    }
                 }
             },
             {
@@ -1922,7 +3038,14 @@
                     "endOffset": 10971
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 2,
+                        "startOffset": 7621,
+                        "endColumn": 51,
+                        "endOffset": 7670
+                    }
                 }
             },
             {
@@ -1934,7 +3057,14 @@
                     "endOffset": 11051
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 2,
+                        "startOffset": 7674,
+                        "endColumn": 77,
+                        "endOffset": 7749
+                    }
                 }
             },
             {
@@ -1946,7 +3076,14 @@
                     "endOffset": 11112
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 2,
+                        "startOffset": 7753,
+                        "endColumn": 58,
+                        "endOffset": 7809
+                    }
                 }
             },
             {
@@ -1958,7 +3095,14 @@
                     "endOffset": 11232
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 2,
+                        "startOffset": 7813,
+                        "endColumn": 117,
+                        "endOffset": 7928
+                    }
                 }
             },
             {
@@ -1970,7 +3114,14 @@
                     "endOffset": 11318
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 2,
+                        "startOffset": 7932,
+                        "endColumn": 83,
+                        "endOffset": 8013
+                    }
                 }
             },
             {
@@ -1982,7 +3133,14 @@
                     "endOffset": 11387
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 2,
+                        "startOffset": 8017,
+                        "endColumn": 66,
+                        "endOffset": 8081
+                    }
                 }
             },
             {
@@ -1994,7 +3152,14 @@
                     "endOffset": 11483
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 2,
+                        "startOffset": 8085,
+                        "endColumn": 93,
+                        "endOffset": 8176
+                    }
                 }
             },
             {
@@ -2006,7 +3171,14 @@
                     "endOffset": 11553
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 2,
+                        "startOffset": 8180,
+                        "endColumn": 67,
+                        "endOffset": 8245
+                    }
                 }
             },
             {
@@ -2018,7 +3190,14 @@
                     "endOffset": 11674
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 2,
+                        "startOffset": 8249,
+                        "endColumn": 118,
+                        "endOffset": 8365
+                    }
                 }
             },
             {
@@ -2030,7 +3209,14 @@
                     "endOffset": 11752
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 2,
+                        "startOffset": 8369,
+                        "endColumn": 75,
+                        "endOffset": 8442
+                    }
                 }
             },
             {
@@ -2042,7 +3228,14 @@
                     "endOffset": 11814
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 2,
+                        "startOffset": 8446,
+                        "endColumn": 59,
+                        "endOffset": 8503
+                    }
                 }
             },
             {
@@ -2054,7 +3247,14 @@
                     "endOffset": 11881
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 2,
+                        "startOffset": 8507,
+                        "endColumn": 64,
+                        "endOffset": 8569
+                    }
                 }
             },
             {
@@ -2066,7 +3266,14 @@
                     "endOffset": 11946
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 2,
+                        "startOffset": 8573,
+                        "endColumn": 62,
+                        "endOffset": 8633
+                    }
                 }
             },
             {
@@ -2078,7 +3285,14 @@
                     "endOffset": 12015
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 2,
+                        "startOffset": 8637,
+                        "endColumn": 66,
+                        "endOffset": 8701
+                    }
                 }
             },
             {
@@ -2090,7 +3304,14 @@
                     "endOffset": 12083
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 2,
+                        "startOffset": 8705,
+                        "endColumn": 65,
+                        "endOffset": 8768
+                    }
                 }
             },
             {
@@ -2102,7 +3323,14 @@
                     "endOffset": 12134
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 2,
+                        "startOffset": 8772,
+                        "endColumn": 48,
+                        "endOffset": 8818
+                    }
                 }
             },
             {
@@ -2114,7 +3342,14 @@
                     "endOffset": 12191
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 2,
+                        "startOffset": 8822,
+                        "endColumn": 54,
+                        "endOffset": 8874
+                    }
                 }
             },
             {
@@ -2126,7 +3361,14 @@
                     "endOffset": 12248
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 2,
+                        "startOffset": 8878,
+                        "endColumn": 54,
+                        "endOffset": 8930
+                    }
                 }
             },
             {
@@ -2138,7 +3380,14 @@
                     "endOffset": 12306
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 2,
+                        "startOffset": 8934,
+                        "endColumn": 55,
+                        "endOffset": 8987
+                    }
                 }
             },
             {
@@ -2150,7 +3399,14 @@
                     "endOffset": 12363
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 2,
+                        "startOffset": 8991,
+                        "endColumn": 54,
+                        "endOffset": 9043
+                    }
                 }
             },
             {
@@ -2162,7 +3418,14 @@
                     "endOffset": 12412
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 2,
+                        "startOffset": 9047,
+                        "endColumn": 46,
+                        "endOffset": 9091
+                    }
                 }
             },
             {
@@ -2174,7 +3437,14 @@
                     "endOffset": 12477
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 2,
+                        "startOffset": 9095,
+                        "endColumn": 62,
+                        "endOffset": 9155
+                    }
                 }
             },
             {
@@ -2186,7 +3456,14 @@
                     "endOffset": 12533
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 2,
+                        "startOffset": 9159,
+                        "endColumn": 53,
+                        "endOffset": 9210
+                    }
                 }
             },
             {
@@ -2198,7 +3475,14 @@
                     "endOffset": 12622
                 },
                 "from": {
-                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml"
+                    "file": "/Users/apple/homegit/456/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 2,
+                        "startOffset": 9214,
+                        "endColumn": 86,
+                        "endOffset": 9298
+                    }
                 }
             },
             {
