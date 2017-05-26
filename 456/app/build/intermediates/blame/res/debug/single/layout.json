@@ -76,12 +76,12 @@
         "source": "/Users/apple/homegit/456/app/src/main/res/layout/bookmark_picker_list_item.xml"
     },
     {
-        "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/layout/my_phone.xml",
-        "source": "/Users/apple/homegit/456/app/src/main/res/layout/my_phone.xml"
-    },
-    {
         "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/layout/help.xml",
         "source": "/Users/apple/homegit/456/app/src/main/res/layout/help.xml"
+    },
+    {
+        "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/layout/my_phone.xml",
+        "source": "/Users/apple/homegit/456/app/src/main/res/layout/my_phone.xml"
     },
     {
         "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/layout/history_list_item.xml",

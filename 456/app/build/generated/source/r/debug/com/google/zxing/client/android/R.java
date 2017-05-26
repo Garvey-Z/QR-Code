@@ -199,8 +199,8 @@ public final class R {
         public static final int tv_user=0x7f0b002f;
         public static final int type_text_view=0x7f0b0010;
         public static final int user_account=0x7f0b0026;
-        public static final int user_identity=0x7f0b0028;
-        public static final int user_nickname=0x7f0b0027;
+        public static final int user_btn_change=0x7f0b0028;
+        public static final int user_identity=0x7f0b0027;
         public static final int viewfinder_view=0x7f0b000c;
     }
     public static final class layout {
