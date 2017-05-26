@@ -125,4 +125,13 @@
     <string name="result_wifi">WLAN-Konfiguration gefunden</string>
     <string name="sbc_name">Google Book Search</string>
     <string name="wifi_changing_network">Verbindung zum Netzwerk anfordern\u2026</string>
+    <style name="ResultButton" parent="@android:style/Widget.Holo.Button.Borderless.Small">
+    <item name="android:layout_width">0dip</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_weight">1</item>
+  </style>
+    <style name="ShareButton" parent="@android:style/Widget.Holo.Button.Borderless.Small">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+  </style>
 </resources>

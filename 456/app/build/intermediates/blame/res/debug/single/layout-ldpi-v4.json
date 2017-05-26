@@ -1,14 +1,18 @@
 [
     {
-        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldpi-v4\\my_profile.xml",
-        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\layout-ldpi\\my_profile.xml"
-    },
-    {
         "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldpi-v4\\capture.xml",
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\layout-ldpi\\capture.xml"
     },
     {
         "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldpi-v4\\my_photo.xml",
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\layout-ldpi\\my_photo.xml"
+    },
+    {
+        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldpi-v4\\my_photo.xml",
+        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\layout-ldpi\\my_photo.xml"
+    },
+    {
+        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldpi-v4\\capture.xml",
+        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\layout-ldpi\\capture.xml"
     }
 ]

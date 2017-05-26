@@ -2,5 +2,9 @@
     {
         "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\xml\\preferences.xml"
     }
 ]

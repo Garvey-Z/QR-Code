@@ -72,9 +72,6 @@ public class My_Photo extends Activity {
         bitmap = intent.getParcelableExtra("photo");
         iv_image.setImageBitmap(bitmap);
 
-
-
-
     }
 
     @Override
@@ -93,6 +90,7 @@ public class My_Photo extends Activity {
 
             case R.id.open_camera:
                 camera();
+                break;
             case R.id.open_gallery:
                // intent.setClassName(this, HelpActivity.class.getName());
                // startActivity(intent);
@@ -105,6 +103,7 @@ public class My_Photo extends Activity {
                 intent1.putExtra("path", path);
                 setResult(RESULT_OK, intent1);
                 finish();
+                break;
             default:
                 return super.onOptionsItemSelected(item);
         }

@@ -4,8 +4,24 @@
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\drawable-hdpi\\clear1.png"
     },
     {
+        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\yes.png",
+        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\drawable-hdpi\\yes.png"
+    },
+    {
         "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\yes.png",
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\drawable-hdpi\\yes.png"
+    },
+    {
+        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\launcher_icon.png",
+        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\drawable-hdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\clear1.png",
+        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\drawable-hdpi\\clear1.png"
+    },
+    {
+        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\line.png",
+        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\drawable-hdpi\\line.png"
     },
     {
         "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\line.png",
@@ -22,5 +38,13 @@
     {
         "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\launcher_icon.png",
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\drawable-hdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\next.png",
+        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\clear.png",
+        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\drawable-hdpi\\clear.png"
     }
 ]

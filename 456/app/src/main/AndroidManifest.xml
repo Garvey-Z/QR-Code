@@ -41,9 +41,11 @@
 
   <application
       android:theme="@style/CaptureTheme">
-    <activity android:name="com.mytool.Login">
+    <!--<activity android:name="com.text.text1">-->
+      <activity android:name="com.mytool.Login">
+    <!--<activity android:name="com.mytool.My_Profile">-->
 
-      <intent-filter>
+    <intent-filter>
         <action android:name="android.intent.action.MAIN"/>
         <category android:name="android.intent.category.LAUNCHER"/>
       </intent-filter>
@@ -138,9 +140,10 @@
         android:stateNotNeeded="true"
         android:theme="@style/CaptureTheme"
         android:windowSoftInputMode="stateAlwaysHidden"/>
-    <activity android:name="com.text.text1"/>
 
-    <activity android:name="com.mytool.My_Profile"/>
+    <activity android:name="com.text.text1"/>
+    <!--<activity android:name="com.mytool.Login"/>-->
+  <activity android:name="com.mytool.My_Profile"/>
 
     <!--my_profile-->
     <activity android:name="com.my_profile.My_Gender"/>

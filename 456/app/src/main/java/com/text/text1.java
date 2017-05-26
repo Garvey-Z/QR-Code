@@ -2,6 +2,7 @@ package com.text;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.view.Window;
@@ -37,6 +38,7 @@ public class text1 extends Activity {
             public void onClick(View view) {
                 Intent intent = new Intent(text1.this, CaptureActivity.class);
                 startActivity(intent);
+
             }
         });
         btn3 = (Button)findViewById(R.id.bt3);

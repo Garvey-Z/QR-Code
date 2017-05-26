@@ -11,18 +11,23 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.util.Log;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.zxing.client.android.CaptureActivity;
 import com.google.zxing.client.android.R;
 import com.my_profile.My_Gender;
 import com.my_profile.My_Name;
 import com.my_profile.My_Phone;
 import com.my_profile.My_Photo;
 import com.my_profile.My_QR_Code;
+import com.text.text1;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -49,20 +54,21 @@ import static android.content.ContentValues.TAG;
  */
 
 public class My_Profile extends Activity implements View.OnClickListener{
-    private TextView rt, my_name, my_gender, my_role, my_id, my_phone;
-    private RelativeLayout photo, name, qr_code, gender, phone;
-    private ImageView my_photo, my_qr_code;
+    private TextView  my_name, my_gender, my_role, my_id, my_phone;
+    private RelativeLayout photo, name, gender, phone;
+    private ImageView my_photo;
     private String photo_path = "";
     private OkHttpClient mOkHttpClient;
     private Bitmap bitmap_photo;
     protected void onCreate(Bundle bundle){
         super.onCreate(bundle);
         ActionBar actionBar = getActionBar();
-        actionBar.hide();
+        actionBar.setDisplayHomeAsUpEnabled(true);
+        actionBar.setTitle("My_Profile");
+        actionBar.setDisplayShowHomeEnabled(false);
+
         setContentView(R.layout.my_profile);
-        rt = (TextView)findViewById(R.id.rt_my_profile);
-        rt.setText("<");
-        rt.setOnClickListener(this);
+
 
         photo = (RelativeLayout)findViewById(R.id.next_photo);
         photo.setOnClickListener(this);
@@ -70,8 +76,7 @@ public class My_Profile extends Activity implements View.OnClickListener{
         name = (RelativeLayout)findViewById(R.id.next_name);
         name.setOnClickListener(this);
 
-        qr_code = (RelativeLayout)findViewById(R.id.next_QR_Code);
-        qr_code.setOnClickListener(this);
+
 
         gender = (RelativeLayout)findViewById(R.id.next_gender);
         gender.setOnClickListener(this);
@@ -88,12 +93,39 @@ public class My_Profile extends Activity implements View.OnClickListener{
         my_gender = (TextView)findViewById(R.id.my_gender);
         my_role = (TextView)findViewById(R.id.my_role);
         my_photo = (ImageView)findViewById(R.id.my_photo);
-        my_qr_code = (ImageView)findViewById(R.id.my_qr_code);
+
 
        //uploadMultiFile();
         //post_infomation();
         getinfomation();
         downpicture();
+    }
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        Log.v("1", "123123");
+        MenuInflater menuInflater = getMenuInflater();
+        menuInflater.inflate(R.menu.menu_profile, menu);
+        return super.onCreateOptionsMenu(menu);
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        //Intent intent = new Intent(Intent.ACTION_VIEW);
+        //intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_WHEN_TASK_RESET);
+        switch (item.getItemId()) {
+
+            case R.id.menu_scan:
+                Intent intent1 = new Intent(My_Profile.this, CaptureActivity.class);
+                startActivity(intent1);
+                break;
+            case R.id.menu_create:
+                Intent intent2 = new Intent(My_Profile.this, Create_QR_Code.class);
+                startActivity(intent2);
+                break;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+        return true;
     }
 
     @Override
@@ -101,9 +133,7 @@ public class My_Profile extends Activity implements View.OnClickListener{
         Intent intent;
         Bitmap bitmap;
         switch (view.getId()){
-            case R.id.rt_my_profile:
-                finish();
-                break;
+
             case R.id.next_photo:
                 intent = new Intent(My_Profile.this, My_Photo.class);
                 bitmap = ((BitmapDrawable)my_photo.getDrawable()).getBitmap();
@@ -114,10 +144,6 @@ public class My_Profile extends Activity implements View.OnClickListener{
                 intent = new Intent(My_Profile.this, My_Name.class);
                 intent.putExtra("name", my_name.getText().toString());
                 startActivityForResult(intent, 2);
-                break;
-            case R.id.next_QR_Code:
-                intent = new Intent(My_Profile.this, My_QR_Code.class);
-                startActivity(intent);
                 break;
             case R.id.next_gender:
                 intent = new Intent(My_Profile.this, My_Gender.class);

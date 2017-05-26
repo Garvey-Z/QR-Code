@@ -8,7 +8,19 @@
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\drawable-hdpi\\layout_selector.xml"
     },
     {
+        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\customer_selected.xml",
+        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\drawable-hdpi\\customer_selected.xml"
+    },
+    {
+        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\customer_normal.xml",
+        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\drawable-hdpi\\customer_normal.xml"
+    },
+    {
         "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\customer_selected.xml",
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\drawable-hdpi\\customer_selected.xml"
+    },
+    {
+        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\layout_selector.xml",
+        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\drawable-hdpi\\layout_selector.xml"
     }
 ]

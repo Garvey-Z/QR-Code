@@ -1,14 +1,74 @@
 [
     {
+        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape.xml",
+        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_normal.xml",
+        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\drawable\\bg_edittext_normal.xml"
+    },
+    {
         "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_via_barcode.png",
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\drawable\\share_via_barcode.png"
+    },
+    {
+        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_focused.xml",
+        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\drawable\\bg_edittext_focused.xml"
+    },
+    {
+        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_normal.xml",
+        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\drawable\\bg_edittext_normal.xml"
+    },
+    {
+        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timp.png",
+        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\drawable\\timp.png"
+    },
+    {
+        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext.xml",
+        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\drawable\\bg_edittext.xml"
     },
     {
         "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\launcher_icon.png",
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\drawable\\launcher_icon.png"
     },
     {
+        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape.xml",
+        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_via_barcode.png",
+        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\drawable\\share_via_barcode.png"
+    },
+    {
+        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_focused.xml",
+        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\drawable\\bg_edittext_focused.xml"
+    },
+    {
+        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\launcher_icon.png",
+        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\drawable\\launcher_icon.png"
+    },
+    {
+        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext.xml",
+        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\drawable\\bg_edittext.xml"
+    },
+    {
+        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_black.xml",
+        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\drawable\\shape_black.xml"
+    },
+    {
+        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_blue.xml",
+        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\drawable\\shape_blue.xml"
+    },
+    {
         "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timp.png",
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\drawable\\timp.png"
+    },
+    {
+        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_blue.xml",
+        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\drawable\\shape_blue.xml"
+    },
+    {
+        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_black.xml",
+        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\drawable\\shape_black.xml"
     }
 ]

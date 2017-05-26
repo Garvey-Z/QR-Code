@@ -16,6 +16,7 @@
 
 package com.google.zxing.client.android.encode;
 
+import android.app.ActionBar;
 import android.graphics.Point;
 import android.view.Display;
 import android.view.MenuInflater;
@@ -43,7 +44,21 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.concurrent.TimeUnit;
 import java.util.regex.Pattern;
+
+import okhttp3.Call;
+import okhttp3.Callback;
+import okhttp3.MediaType;
+import okhttp3.MultipartBody;
+import okhttp3.OkHttpClient;
+import okhttp3.Request;
+import okhttp3.RequestBody;
+import okhttp3.Response;
+
+import static android.content.ContentValues.TAG;
 
 /**
  * This class encodes data from an Intent into a QR code, and then displays it full screen so that
@@ -60,11 +75,15 @@ public final class EncodeActivity extends Activity {
   private static final String USE_VCARD_KEY = "USE_VCARD";
 
   private QRCodeEncoder qrCodeEncoder;
-
+  private String codenumber = "";
+  private String path ="";
   @Override
   public void onCreate(Bundle icicle) {
     super.onCreate(icicle);
+    ActionBar actionBar = getActionBar();
+    actionBar.hide();
     Intent intent = getIntent();
+    codenumber = intent.getStringExtra("codenumber");
     if (intent == null) {
       finish();
     } else {
@@ -216,6 +235,8 @@ public final class EncodeActivity extends Activity {
 
       ImageView view = (ImageView) findViewById(R.id.image_view);
       view.setImageBitmap(bitmap);
+      save_qrcode(bitmap);
+      uploadMultiFile();
 
       TextView contents = (TextView) findViewById(R.id.contents_text_view);
       if (intent.getBooleanExtra(Intents.Encode.SHOW_CONTENTS, true)) {
@@ -238,5 +259,73 @@ public final class EncodeActivity extends Activity {
     builder.setPositiveButton(R.string.button_ok, new FinishListener(this));
     builder.setOnCancelListener(new FinishListener(this));
     builder.show();
+  }
+  private void uploadMultiFile() {
+
+    final String url = "http://120.25.247.207:8081/receive_code.php";
+    Log.d("path",path);
+    File file = new File(path);
+    RequestBody fileBody = RequestBody.create(MediaType.parse("application/octet-stream"), file);
+    RequestBody requestBody = new MultipartBody.Builder()
+            .setType(MultipartBody.FORM)
+            .addFormDataPart("userfile",codenumber+"_qrcode"+".png",fileBody)
+            .addFormDataPart("codenumber",codenumber)
+            .build();
+    Request request = new Request.Builder()
+            .url(url)
+            .post(requestBody)
+            .build();
+
+
+    final okhttp3.OkHttpClient.Builder httpBuilder = new OkHttpClient.Builder();
+    OkHttpClient okHttpClient  = httpBuilder
+            //设置超时
+            .connectTimeout(10, TimeUnit.SECONDS)
+            .writeTimeout(15, TimeUnit.SECONDS)
+            .build();
+    okHttpClient.newCall(request).enqueue(new Callback() {
+      @Override
+      public void onFailure(Call call, IOException e) {
+        Log.e(TAG, "uploadMultiFile() e=" + e);
+      }
+
+
+      @Override
+      public void onResponse(Call call, Response response) throws IOException {
+        Log.i(TAG, "uploadMultiFile() response=" + response.body().string());
+      }
+    });
+  }
+  private void save_qrcode(Bitmap bitmap){
+    FileOutputStream fileOutputStream = null;
+    try {
+      // 获取 SD 卡根目录
+      String saveDir = Environment.getExternalStorageDirectory() + "/meitian_photos";
+      // 新建目录
+      File dir = new File(saveDir);
+      if (! dir.exists()) dir.mkdir();
+      // 生成文件名
+      SimpleDateFormat t = new SimpleDateFormat("yyyyMMddssSSS");
+      String filename = "MT" + (t.format(new Date())) + ".jpg";
+      // 新建文件
+      File file = new File(saveDir, filename);
+      // 打开文件输出流
+      fileOutputStream = new FileOutputStream(file);
+      // 生成图片文件
+      bitmap.compress(Bitmap.CompressFormat.JPEG, 100, fileOutputStream);
+      // 相片的完整路径
+      this.path = file.getPath();
+
+    } catch (Exception e) {
+      e.printStackTrace();
+    } finally {
+      if (fileOutputStream != null) {
+        try {
+          fileOutputStream.close();
+        } catch (Exception e) {
+          e.printStackTrace();
+        }
+      }
+    }
   }
 }

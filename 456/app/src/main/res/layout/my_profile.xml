@@ -5,182 +5,116 @@
     android:orientation="vertical"
     android:background="@color/graylight">
 
-    <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:background="#242424"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true">
-        <TextView
-            android:id="@+id/rt_my_profile"
-            android:layout_width="wrap_content"
-            android:layout_height="50dp"
-            android:paddingLeft="15dp"
-            android:layout_marginTop="-10dp"
-            android:textSize="45dp"
-            android:clickable="true"
-            android:text="6"
-            android:textColor="@color/white"
 
-            />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="50dp"
-            android:gravity="center"
-            android:textSize="25dp"
-
-            android:text="My_Profile"
-            android:textColor="@color/white"
-            />
-    </RelativeLayout>
 
     <!--first block-->
     <LinearLayout
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="50dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:background="@color/white">
-            <RelativeLayout
-                android:id="@+id/next_photo"
+        <RelativeLayout
+            android:id="@+id/next_photo"
 
-                android:layout_width="match_parent"
-                android:layout_height="80dp"
-                android:background="@drawable/layout_selector"
-                android:clickable="true">
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:gravity="center|center_vertical"
-                    android:text="Profile Photo"
-                    android:textSize="24dp"
-                    android:paddingLeft="15dp"/>
-                <ImageView
-                    android:id="@+id/my_photo"
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:src="@drawable/timp"
-                    android:layout_alignParentRight="true"
-                    android:layout_marginRight="40dp"/>
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="@drawable/layout_selector"
+            android:clickable="true">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center|center_vertical"
+                android:text="Profile Photo"
+                android:textSize="24dp"
+                android:paddingLeft="15dp"/>
+            <ImageView
+                android:id="@+id/my_photo"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:src="@drawable/timp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="40dp"/>
 
-                <ImageView
-                    android:layout_width="25dp"
-                    android:layout_height="match_parent"
-                    android:src="@drawable/next"
-                    android:layout_alignParentRight="true"
-                    android:layout_marginRight="10dp"
-                  />
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/next"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                />
 
-            </RelativeLayout>
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="@color/graylight"
-                android:layout_marginLeft="15dp"/>
+        </RelativeLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/graylight"
+            android:layout_marginLeft="15dp"/>
 
-            <RelativeLayout
-                android:id="@+id/next_name"
-                android:layout_width="match_parent"
-                android:layout_height="50dp"
-                android:background="@drawable/layout_selector"
-                android:clickable="true">
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:gravity="center|center_vertical"
-                    android:text="Name"
-                    android:textSize="24dp"
-                    android:paddingLeft="15dp"/>
-                <TextView
-                    android:id="@+id/my_name"
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:layout_alignParentRight="true"
-                    android:layout_marginRight="40dp"
-                    android:text="会唔会"
-                    android:textSize="18dp"
-                    android:textColor="@color/gray"
-                    android:gravity="center|center_vertical"/>
+        <RelativeLayout
+            android:id="@+id/next_name"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/layout_selector"
+            android:clickable="true">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center|center_vertical"
+                android:text="Name"
+                android:textSize="24dp"
+                android:paddingLeft="15dp"/>
+            <TextView
+                android:id="@+id/my_name"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="40dp"
+                android:text="会唔会"
+                android:textSize="18dp"
+                android:textColor="@color/gray"
+                android:gravity="center|center_vertical"/>
 
-                <ImageView
-                    android:layout_width="25dp"
-                    android:layout_height="match_parent"
-                    android:src="@drawable/next"
-                    android:layout_alignParentRight="true"
-                    android:layout_marginRight="10dp"
-                    />
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/next"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                />
 
-            </RelativeLayout>
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="@color/graylight"
-                android:layout_marginLeft="15dp"/>
+        </RelativeLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/graylight"
+            android:layout_marginLeft="15dp"/>
 
-            <RelativeLayout
-                android:id="@+id/next_ID"
-                android:layout_width="match_parent"
-                android:layout_height="50dp"
-                android:background="@color/white">
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:gravity="center|center_vertical"
-                    android:text="My ID"
-                    android:textSize="24dp"
-                    android:paddingLeft="15dp"/>
-                <TextView
-                    android:id="@+id/my_ID"
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:layout_alignParentRight="true"
-                    android:layout_marginRight="20dp"
-                    android:text="www"
-                    android:textSize="18dp"
-                    android:textColor="@color/gray"
-                    android:gravity="center|center_vertical"/>
+        <RelativeLayout
+            android:id="@+id/next_ID"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/white">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center|center_vertical"
+                android:text="My ID"
+                android:textSize="24dp"
+                android:paddingLeft="15dp"/>
+            <TextView
+                android:id="@+id/my_ID"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="20dp"
+                android:text="www"
+                android:textSize="18dp"
+                android:textColor="@color/gray"
+                android:gravity="center|center_vertical"/>
 
 
-            </RelativeLayout>
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="@color/graylight"
-                android:layout_marginLeft="15dp"/>
-
-            <RelativeLayout
-                android:id="@+id/next_QR_Code"
-                android:layout_width="match_parent"
-                android:layout_height="50dp"
-                android:background="@drawable/layout_selector"
-                android:clickable="true">
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:gravity="center|center_vertical"
-                    android:text="My QR Code"
-                    android:textSize="24dp"
-                    android:paddingLeft="15dp"/>
-                <ImageView
-                    android:id="@+id/my_qr_code"
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:layout_alignParentRight="true"
-                    android:layout_marginRight="40dp"
-                    android:src="@drawable/timp"
-                    android:gravity="center|center_vertical"/>
-
-                <ImageView
-                    android:layout_width="25dp"
-                    android:layout_height="match_parent"
-                    android:src="@drawable/next"
-                    android:layout_alignParentRight="true"
-                    android:layout_marginRight="10dp"
-                    />
-
-            </RelativeLayout>
+        </RelativeLayout>
 
 
     </LinearLayout>
@@ -192,79 +126,79 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:background="@color/white">
-            <RelativeLayout
+        <RelativeLayout
 
-                android:id="@+id/next_gender"
-                android:layout_width="match_parent"
-                android:layout_height="50dp"
-                android:background="@drawable/layout_selector"
-                android:clickable="true">
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:gravity="center|center_vertical"
-                    android:text="Gender"
-                    android:textSize="24dp"
-                    android:paddingLeft="15dp"/>
-                <TextView
-                    android:id="@+id/my_gender"
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:layout_alignParentRight="true"
-                    android:layout_marginRight="40dp"
-                    android:text="Male"
-                    android:textSize="18dp"
-                    android:textColor="@color/gray"
-                    android:gravity="center|center_vertical"/>
+            android:id="@+id/next_gender"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/layout_selector"
+            android:clickable="true">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center|center_vertical"
+                android:text="Gender"
+                android:textSize="24dp"
+                android:paddingLeft="15dp"/>
+            <TextView
+                android:id="@+id/my_gender"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="40dp"
+                android:text="Male"
+                android:textSize="18dp"
+                android:textColor="@color/gray"
+                android:gravity="center|center_vertical"/>
 
-                <ImageView
-                    android:layout_width="25dp"
-                    android:layout_height="match_parent"
-                    android:src="@drawable/next"
-                    android:layout_alignParentRight="true"
-                    android:layout_marginRight="10dp"
-                    />
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/next"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                />
 
-            </RelativeLayout>
+        </RelativeLayout>
         <View
             android:layout_width="match_parent"
             android:layout_height="1dp"
             android:background="@color/graylight"
             android:layout_marginLeft="15dp"/>
 
-            <RelativeLayout
-                android:id="@+id/next_phone"
-                android:layout_width="match_parent"
-                android:layout_height="50dp"
-                android:background="@drawable/layout_selector"
-                android:clickable="true">
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:gravity="center|center_vertical"
-                    android:text="Phone"
-                    android:textSize="24dp"
-                    android:paddingLeft="15dp"/>
-                <TextView
-                    android:id="@+id/my_phone"
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:layout_alignParentRight="true"
-                    android:layout_marginRight="40dp"
-                    android:text="12312312312"
-                    android:textSize="18dp"
-                    android:textColor="@color/gray"
-                    android:gravity="center|center_vertical"/>
+        <RelativeLayout
+            android:id="@+id/next_phone"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/layout_selector"
+            android:clickable="true">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center|center_vertical"
+                android:text="Phone"
+                android:textSize="24dp"
+                android:paddingLeft="15dp"/>
+            <TextView
+                android:id="@+id/my_phone"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="40dp"
+                android:text="12312312312"
+                android:textSize="18dp"
+                android:textColor="@color/gray"
+                android:gravity="center|center_vertical"/>
 
-                <ImageView
-                    android:layout_width="25dp"
-                    android:layout_height="match_parent"
-                    android:src="@drawable/next"
-                    android:layout_alignParentRight="true"
-                    android:layout_marginRight="10dp"
-                    />
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/next"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                />
 
-            </RelativeLayout>
+        </RelativeLayout>
 
         <View
             android:layout_width="match_parent"
@@ -298,5 +232,4 @@
         </RelativeLayout>
 
     </LinearLayout>
-
-</LinearLayout>
+  </LinearLayout>

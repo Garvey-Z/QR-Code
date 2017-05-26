@@ -224,19 +224,11 @@
     <string name="result_wifi">Found WLAN Configuration</string>
     <string name="sbc_name">Google Book Search</string>
     <string name="wifi_changing_network">Requesting connection to network\u2026</string>
-    <style name="CaptureTheme" parent="android:Theme.Holo.Light">
+    <style name="CaptureTheme" parent="android:Theme.Holo.Light.DarkActionBar">
     <item name="android:windowFullscreen">false</item>
     <item name="android:windowContentOverlay">@null</item>
     <item name="android:windowActionBarOverlay">true</item>
     <item name="android:windowActionModeOverlay">true</item>
-  </style>
-    <style name="ResultButton" parent="@android:style/Widget.Holo.Button.Borderless.Small">
-    <item name="android:layout_width">0dip</item>
-    <item name="android:layout_height">wrap_content</item>
-    <item name="android:layout_weight">1</item>
-  </style>
-    <style name="ShareButton" parent="@android:style/Widget.Holo.Button.Borderless.Small">
-    <item name="android:layout_width">wrap_content</item>
-    <item name="android:layout_height">wrap_content</item>
-  </style>
+
+</style>
 </resources>

@@ -25,7 +25,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="38917b44a92912b0f1f0d91702aadac5e7125513">
+        sha1="9f44abe7abc01c395da2abf5f441cfdb85be1951">
         <dex dex="F:\android\QR-Code\456\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9bc0fd25a90b369b4129ed5f5019a18a1d52ac6f.jar" />
     </item>
     <item
@@ -43,7 +43,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="9e8fe5b235bbaa87740136fc6858ae30e4e4eac3">
+        sha1="608f49ead86983078089de7a3518ec0576d12b45">
         <dex dex="F:\android\QR-Code\456\app\build\intermediates\pre-dexed\debug\instant-run_30a58d586e20e3b0ae85cc6c7df724c484ff39b1.jar" />
     </item>
 
