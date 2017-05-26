@@ -22,6 +22,7 @@ import android.widget.Toast;
 
 import com.google.zxing.client.android.CaptureActivity;
 import com.google.zxing.client.android.R;
+import com.modify_identity.Modify_identity;
 import com.my_profile.My_Gender;
 import com.my_profile.My_Name;
 import com.my_profile.My_Phone;
@@ -123,7 +124,7 @@ public class My_Profile extends Activity implements View.OnClickListener{
                 startActivity(intent2);
                 break;
             case R.id.menu_quit:
-                Intent intent3 = new Intent(My_Profile.this, Login.class);
+                Intent intent3 = new Intent(My_Profile.this, Modify_identity.class);
                 startActivity(intent3);
             default:
                 return super.onOptionsItemSelected(item);
@@ -173,6 +174,7 @@ public class My_Profile extends Activity implements View.OnClickListener{
                          photo_path = data.getStringExtra("path");
                     uploadMultiFile();
                 }
+                break;
             case 2:
                 if(resultCode == RESULT_OK){
                     String result = data.getStringExtra("name");
@@ -185,17 +187,22 @@ public class My_Profile extends Activity implements View.OnClickListener{
                     String result = data.getStringExtra("gender");
                     my_gender.setText(result);
                     post_infomation();
+                    Log.d("gender", result);
+                    Log.d("phone", my_phone.getText().toString());
                 }
+                break;
             case 6:
                 if(resultCode == RESULT_OK){
                     String result = data.getStringExtra("phone");
                     my_phone.setText(result);
                     post_infomation();
                 }
+                break;
         }
 
     }
     private void post_infomation() {
+        Log.d("post_phone",my_phone.getText().toString());
         mOkHttpClient=new OkHttpClient();
         RequestBody formBody = new FormBody.Builder()
                 .add("account", my_id.getText().toString())

@@ -1,44 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86,armeabi-v7a"
-    api-level="19"
-    density="xxhdpi"
+    abi="armeabi-v7a,armeabi"
+    api-level="18"
+    density="hdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="6371191238631"
+    timestamp="1244781594081"
     token="3598520875715617243"
-    verifier="COMPATIBLE" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="424" />
+        duration="682" />
     <task
         name="instant-run-dex"
-        duration="796" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="16" />
+        duration="81" />
     <task
         name="verifier"
-        duration="14" />
+        duration="9" />
 
     <artifact
-        location="/Users/apple/homegit/456/app/build/intermediates/reload-dex/debug/classes.dex"
-        type="RELOAD_DEX" />
+        location="/Users/apple/homegit/456/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="4012678116375"
+        timestamp="1244781594081"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/apple/homegit/456/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="6371191238631"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/apple/homegit/456/app/build/intermediates/reload-dex/debug/classes.dex"
-            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

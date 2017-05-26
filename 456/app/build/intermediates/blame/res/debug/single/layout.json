@@ -44,12 +44,20 @@
         "source": "/Users/apple/homegit/456/app/src/main/res/layout/search_book_contents.xml"
     },
     {
+        "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/layout/modify_role.xml",
+        "source": "/Users/apple/homegit/456/app/src/main/res/layout/modify_role.xml"
+    },
+    {
         "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/layout/my_profile.xml",
         "source": "/Users/apple/homegit/456/app/src/main/res/layout/my_profile.xml"
     },
     {
         "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/layout/login.xml",
         "source": "/Users/apple/homegit/456/app/src/main/res/layout/login.xml"
+    },
+    {
+        "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/apple/homegit/456/app/src/main/res/layout/list_item.xml"
     },
     {
         "merged": "/Users/apple/homegit/456/app/build/intermediates/res/merged/debug/layout/login2.xml",

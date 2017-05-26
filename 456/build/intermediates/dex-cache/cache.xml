@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="fd6d6770b9639a0234d046e4f5269c9a4d2eef23">
+        sha1="ac4e63ae56c3ceaab7f177eafcb1ed027d1ed552">
         <dex dex="/Users/apple/homegit/456/app/build/intermediates/pre-dexed/debug/instant-run_308da167457a8204ccfd2ed51b1e7debd9c78f4c.jar" />
     </item>
     <item
@@ -43,7 +43,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="c28b8be106d1e71773449729538aa26093d9eb5f">
+        sha1="c5b9c9f0dd0f3dd3ae999fa06ff3ad0689b67e1b">
         <dex dex="/Users/apple/homegit/456/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_6a92080d6c956c8df2fa1d05381a2dd61eeafa69.jar" />
     </item>
 
