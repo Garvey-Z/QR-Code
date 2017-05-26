@@ -12,31 +12,11 @@
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\menu\\capture.xml"
     },
     {
-        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\menu\\picture_open.xml",
-        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\menu\\picture_open.xml"
-    },
-    {
         "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\menu\\picture_open.xml",
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\menu\\picture_open.xml"
     },
     {
-        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\menu\\capture.xml",
-        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\menu\\capture.xml"
-    },
-    {
-        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
-        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\menu\\history.xml"
-    },
-    {
-        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",
-        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\menu\\encode.xml"
-    },
-    {
         "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\menu\\encode.xml"
-    },
-    {
-        "merged": "F:\\Users\\apple\\homegit\\456\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_profile.xml",
-        "source": "F:\\Users\\apple\\homegit\\456\\app\\src\\main\\res\\menu\\menu_profile.xml"
     }
 ]

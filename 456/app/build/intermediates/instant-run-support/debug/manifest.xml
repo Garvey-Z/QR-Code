@@ -21,7 +21,7 @@
     android:versionName="4.7.7" >
 
     <uses-sdk
-        android:minSdkVersion="15"
+        android:minSdkVersion="16"
         android:targetSdkVersion="25" />
 
     <uses-permission android:name="android.permission.CAMERA" />
@@ -52,10 +52,9 @@
         android:theme="@style/CaptureTheme" >
 
         <!-- <activity android:name="com.text.text1"> -->
-        <activity android:name="com.mytool.Login" >
-
-            <!-- <activity android:name="com.mytool.My_Profile"> -->
-
+        <!-- <activity android:name="com.mytool.Login"> -->
+        <!-- <activity android:name="com.mytool.My_Profile"> -->
+        <activity android:name="com.modify_identity.Modify_identity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -202,6 +201,8 @@
         <activity android:name="com.my_profile.My_Phone" />
         <!-- create -->
         <activity android:name="com.mytool.Create_QR_Code" />
+        <!-- <activity android:name="com.modify_identity.Modify_identity"/> -->
+
     </application>
 
 </manifest>

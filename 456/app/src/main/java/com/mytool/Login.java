@@ -108,6 +108,9 @@ public class Login extends Activity{
         ivNum.setOnClickListener(new OnClickListenerImpl());
 
         etCheck = (EditText) findViewById(R.id.login_etCheck);
+        userEditText.setText("");
+        pwdEditText.setText("");
+        etCheck.setText("");
 
         setNum();
     }
@@ -141,17 +144,12 @@ public class Login extends Activity{
     private class OnClickListenerImpl implements View.OnClickListener {
         @Override
         public void onClick(View v) {
-            //当点击的为登录按钮时
             if(v==btLogin){
-                //判断账户字符是否为空，
                 if (TextUtils.isEmpty(userEditText.getText().toString())){
-                    //为空时抖动提示
                     userEditText.setShakeAnimation();
                     Toast.makeText(Login.this,"账户或密码不能为空",Toast.LENGTH_SHORT).show();
                 }
-                //判断密码字符是否为空
                 if (TextUtils.isEmpty(pwdEditText.getText().toString())){
-                    //为空时抖动提示
                     pwdEditText.setShakeAnimation();
                     Toast.makeText(Login.this,"账户或密码不能为空",Toast.LENGTH_SHORT).show();
                 }
@@ -159,7 +157,6 @@ public class Login extends Activity{
                 if(etCheck.getText().toString()!=null&&etCheck.getText().toString().trim().length()>0)
                 {
                     Log.v(etCheck.getText().toString(),numStr);
-                    //验证输入的验证码是否正确
                     if (numStr.equalsIgnoreCase(etCheck.getText().toString().trim())){
                         Toast.makeText(getApplicationContext(), "验证码正确", Toast.LENGTH_SHORT).show();
                         new Thread() {
@@ -185,6 +182,8 @@ public class Login extends Activity{
                 }else {
                     Toast.makeText(getApplicationContext(),"请输入验证码",Toast.LENGTH_SHORT).show();
                     setNum();
+                    setNum();
+                    Toast.makeText(getApplicationContext(),"请输入验证码",Toast.LENGTH_SHORT).show();
                 }
             }else {
                 setNum();
