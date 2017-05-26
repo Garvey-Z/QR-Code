@@ -62,8 +62,10 @@ public class Modify_identity extends Activity {
 
             public void onClick(View view) {
 
+               // user_adapter = new User_Adapter(Modify_identity.this,R.layout.list_item, info_list);
                 listView.setAdapter(user_adapter);
                 user_adapter.notifyDataSetChanged();
+
                 for (int i = 0; i < list_size; i++) {
                     User_infomation ui = (User_infomation) listView.getItemAtPosition(i);
                     //post_infomation(ui.getAccount(), ui.getIdentity());
@@ -74,7 +76,7 @@ public class Modify_identity extends Activity {
         });
 
     }
-    
+
 
     Handler handler = new Handler(){
         public void handleMessage(Message msg){

@@ -131,7 +131,8 @@ public final class R {
         public static final int menu_history=0x7f0b0068;
         public static final int menu_history_clear_text=0x7f0b006d;
         public static final int menu_history_send=0x7f0b006c;
-        public static final int menu_quit=0x7f0b0070;
+        public static final int menu_modify_role=0x7f0b0070;
+        public static final int menu_quit=0x7f0b0071;
         public static final int menu_scan=0x7f0b006e;
         public static final int menu_settings=0x7f0b0069;
         public static final int menu_share=0x7f0b0067;
@@ -150,8 +151,8 @@ public final class R {
         public static final int next_name=0x7f0b0054;
         public static final int next_phone=0x7f0b005a;
         public static final int next_photo=0x7f0b0052;
-        public static final int open_camera=0x7f0b0071;
-        public static final int open_gallery=0x7f0b0072;
+        public static final int open_camera=0x7f0b0072;
+        public static final int open_gallery=0x7f0b0073;
         public static final int page_number_view=0x7f0b0060;
         public static final int preview_view=0x7f0b000b;
         public static final int query_button=0x7f0b005e;
@@ -232,8 +233,9 @@ public final class R {
         public static final int capture=0x7f0c0000;
         public static final int encode=0x7f0c0001;
         public static final int history=0x7f0c0002;
-        public static final int menu_profile=0x7f0c0003;
-        public static final int picture_open=0x7f0c0004;
+        public static final int menu_profile_admin=0x7f0c0003;
+        public static final int menu_profile_normal=0x7f0c0004;
+        public static final int picture_open=0x7f0c0005;
     }
     public static final class raw {
         public static final int beep=0x7f050000;

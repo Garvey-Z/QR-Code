@@ -47,31 +47,32 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal">
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="50dp"
-        android:layout_weight="1"
+        android:layout_weight="2"
         android:gravity="center_horizontal|center_vertical"
         android:text="Account"
         android:textSize="22dp"/>
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="50dp"
-        android:layout_weight="1"
+        android:layout_weight="2"
         android:gravity="center_vertical|center_horizontal"
-        android:text="Nick name"
+        android:text="Identity"
         android:textSize="22dp"/>
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="50dp"
         android:layout_weight="1"
         android:gravity="center_horizontal|center_vertical"
-        android:text="identity"
+        android:text="操作"
         android:textSize="22dp"/>
     </LinearLayout>
     <ListView
         android:id="@+id/list_modify_role"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:descendantFocusability="afterDescendants">
 
     </ListView>
 

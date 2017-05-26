@@ -5,29 +5,29 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="263369358920608"
+    timestamp="272129374082382"
     token="7457703997792417371"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="6475" />
+        duration="2081" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="154" />
+        duration="142" />
     <task
         name="verifier"
-        duration="13" />
+        duration="35" />
 
     <artifact
         location="F:\android\QR-Code\456\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="263369358920608"
+        timestamp="272129374082382"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="F:\android\QR-Code\456\app\build\outputs\apk\app-debug.apk"

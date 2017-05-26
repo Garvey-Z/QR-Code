@@ -1,9 +1,5 @@
 [
     {
-        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_profile.xml",
-        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\menu\\menu_profile.xml"
-    },
-    {
         "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\menu\\history.xml"
     },
@@ -12,8 +8,16 @@
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\menu\\capture.xml"
     },
     {
+        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_profile_normal.xml",
+        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\menu\\menu_profile_normal.xml"
+    },
+    {
         "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\menu\\picture_open.xml",
         "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\menu\\picture_open.xml"
+    },
+    {
+        "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_profile_admin.xml",
+        "source": "F:\\android\\QR-Code\\456\\app\\src\\main\\res\\menu\\menu_profile_admin.xml"
     },
     {
         "merged": "F:\\android\\QR-Code\\456\\app\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",

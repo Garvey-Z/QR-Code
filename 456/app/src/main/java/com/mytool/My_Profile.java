@@ -27,8 +27,6 @@ import com.my_profile.My_Gender;
 import com.my_profile.My_Name;
 import com.my_profile.My_Phone;
 import com.my_profile.My_Photo;
-import com.my_profile.My_QR_Code;
-import com.text.text1;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -105,7 +103,13 @@ public class My_Profile extends Activity implements View.OnClickListener{
     public boolean onCreateOptionsMenu(Menu menu) {
         Log.v("1", "123123");
         MenuInflater menuInflater = getMenuInflater();
-        menuInflater.inflate(R.menu.menu_profile, menu);
+        SharedPreferences pref = getSharedPreferences("userData",MODE_PRIVATE);
+        if (pref.getString("identity","").equals("administrator")){
+            menuInflater.inflate(R.menu.menu_profile_admin, menu);
+        }else
+        {
+            menuInflater.inflate(R.menu.menu_profile_normal, menu);
+        }
         return super.onCreateOptionsMenu(menu);
     }
 
@@ -123,9 +127,13 @@ public class My_Profile extends Activity implements View.OnClickListener{
                 Intent intent2 = new Intent(My_Profile.this, Create_QR_Code.class);
                 startActivity(intent2);
                 break;
-            case R.id.menu_quit:
+            case R.id.menu_modify_role:
                 Intent intent3 = new Intent(My_Profile.this, Modify_identity.class);
                 startActivity(intent3);
+                break;
+            case R.id.menu_quit:
+                Intent intent4 = new Intent(My_Profile.this, Modify_identity.class);
+                startActivity(intent4);
             default:
                 return super.onOptionsItemSelected(item);
         }
