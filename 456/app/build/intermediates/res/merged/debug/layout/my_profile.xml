@@ -32,7 +32,6 @@
                 android:id="@+id/my_photo"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:src="@drawable/timp"
                 android:layout_alignParentRight="true"
                 android:layout_marginRight="40dp"/>
 
@@ -70,7 +69,7 @@
                 android:layout_height="match_parent"
                 android:layout_alignParentRight="true"
                 android:layout_marginRight="40dp"
-                android:text="会唔会"
+                android:text=""
                 android:textSize="18dp"
                 android:textColor="@color/gray"
                 android:gravity="center|center_vertical"/>
@@ -108,7 +107,7 @@
                 android:layout_height="match_parent"
                 android:layout_alignParentRight="true"
                 android:layout_marginRight="20dp"
-                android:text="www"
+                android:text=""
                 android:textSize="18dp"
                 android:textColor="@color/gray"
                 android:gravity="center|center_vertical"/>
@@ -146,7 +145,7 @@
                 android:layout_height="match_parent"
                 android:layout_alignParentRight="true"
                 android:layout_marginRight="40dp"
-                android:text="Male"
+                android:text=""
                 android:textSize="18dp"
                 android:textColor="@color/gray"
                 android:gravity="center|center_vertical"/>
@@ -185,7 +184,7 @@
                 android:layout_height="match_parent"
                 android:layout_alignParentRight="true"
                 android:layout_marginRight="40dp"
-                android:text="12312312312"
+                android:text=""
                 android:textSize="18dp"
                 android:textColor="@color/gray"
                 android:gravity="center|center_vertical"/>
@@ -224,7 +223,7 @@
                 android:layout_height="match_parent"
                 android:layout_alignParentRight="true"
                 android:layout_marginRight="20dp"
-                android:text="writer"
+                android:text=""
                 android:textSize="18dp"
                 android:textColor="@color/gray"
                 android:gravity="center|center_vertical"/>

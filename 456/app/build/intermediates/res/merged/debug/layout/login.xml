@@ -35,11 +35,11 @@
         android:layout_below="@id/login_password">
         <ImageView
             android:layout_height="70dp"
-            android:layout_width="200dp"
+            android:layout_width="164dp"
             android:id="@+id/login_ivNumA"/>
         <EditText
             android:layout_height="66dp"
-            android:layout_width="match_parent"
+            android:layout_width="180dp"
             android:textSize="30sp"
             android:id="@+id/login_etCheck"
             android:maxLength="4"

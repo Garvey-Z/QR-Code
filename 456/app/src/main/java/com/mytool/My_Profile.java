@@ -132,7 +132,7 @@ public class My_Profile extends Activity implements View.OnClickListener{
                 startActivity(intent3);
                 break;
             case R.id.menu_quit:
-                Intent intent4 = new Intent(My_Profile.this, Modify_identity.class);
+                Intent intent4 = new Intent(My_Profile.this, Login.class);
                 startActivity(intent4);
             default:
                 return super.onOptionsItemSelected(item);
@@ -352,8 +352,11 @@ public class My_Profile extends Activity implements View.OnClickListener{
         });
     }
     private void downpicture() {
+        SharedPreferences pref = getSharedPreferences("userData",MODE_PRIVATE);
+        String account = pref.getString("account","");
         mOkHttpClient = new OkHttpClient();
-        String url = "http://120.25.247.207:8081/account/" + my_id.getText().toString() +"_photo.png";
+        Log.d("123",account);
+        String url = "http://120.25.247.207:8081/account/" + account +"_photo.png";
         Request request = new Request.Builder().url(url).build();
         mOkHttpClient.newCall(request).enqueue(new Callback() {
             @Override
@@ -365,6 +368,7 @@ public class My_Profile extends Activity implements View.OnClickListener{
             public void onResponse(Call call, Response response) {
                 InputStream inputStream = response.body().byteStream();
                 bitmap_photo = BitmapFactory.decodeStream(inputStream);
+                Log.d("123123",bitmap_photo +"");
                 Message message = new Message();
                 message.what = 2;
                 handler.sendMessage(message);
