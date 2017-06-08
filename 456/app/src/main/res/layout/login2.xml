@@ -4,7 +4,9 @@
     android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".CaptureActivity">
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".CaptureActivity"
+    android:background="@drawable/back"
+    android:gravity="center_vertical">
 
     <com.mytool.DeletableEditText
         android:id="@+id/tv_user"
@@ -15,17 +17,7 @@
         android:drawableRight="@drawable/timp"
         android:hint="请输入账户"
         android:ems="10"/>
-    <com.mytool.DeletableEditText
-        android:id="@+id/tv_psd"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textSize="30dp"
-        android:layout_below="@id/tv_user"
-        android:drawableLeft="@drawable/timp"
-        android:drawableRight="@drawable/timp"
-        android:hint="请输入密码"
-        android:inputType="textPassword"
-        android:ems="10"/>
+
     <LinearLayout
         android:id="@+id/lyYanzhengma"
         android:orientation="horizontal"
@@ -124,5 +116,19 @@
         android:layout_below="@id/lyYanzhengma"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
+
+    <com.mytool.DeletableEditText
+        android:id="@+id/tv_psd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:drawableLeft="@drawable/password"
+        android:drawableRight="@drawable/password"
+        android:hint="请输入密码"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:layout_below="@+id/tv_user"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 
 </RelativeLayout>
