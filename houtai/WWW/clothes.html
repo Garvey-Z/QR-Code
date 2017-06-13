@@ -1,0 +1,182 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Clothes_info</title>
+	<link rel="stylesheet" href="res/css/fonts/linecons/css/linecons.css">
+	<link rel="stylesheet" href="res/css/fonts/fontawesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="res/css/bootstrap.css">
+	<link rel="stylesheet" href="res/css/xenon-core.css">
+	<link rel="stylesheet" href="res/css/xenon-forms.css">
+	<link rel="stylesheet" href="res/css/xenon-components.css">
+	<link rel="stylesheet" href="res/css/xenon-skins.css">
+	<link rel="stylesheet" href="res/css/custom.css">
+
+
+	<script src="res/js/jquery-1.11.1.min.js"></script>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body class="page-body">
+
+	
+	<div class="row" id = "all_html">
+		<div class="col-sm-12">
+			<div class="panel panel-default">
+				<div class="panel-body">
+					<form role="form" class="form-horizontal">
+						<div class="form-group" id = "ppid">
+							<label class="col-sm-2 control-label">产品编号</label>
+							<div class="col-sm-10">
+								<input type="text" id="pid" class="form-control" readonly="true">
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-2 control-label">产品名称</label>
+							<div class="col-sm-10">
+								<input type="text" id="pname" class="form-control" readonly="true">
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-2 control-label">产品规格</label>
+							<div class="col-sm-10">
+								<input type="text" id="psize" class="form-control" readonly="true">
+							</div>
+						</div>
+						<div class="form-group">
+							<label class="col-sm-2 control-label">产品价格</label>
+							<div class="col-sm-10">
+								<input type="text" id="pprice" class="form-control" readonly="true">
+							</div>
+						</div>
+						<div class="form-group" id ="ppprime_cost">
+							<label class="col-sm-2 control-label">产品成本</label>
+							<div class="col-sm-10">
+								<input type="text" id="pprime_cost" class="form-control" readonly="true">
+							</div>
+						</div>
+						<div class="form-group" id = "ppnumber">
+							<label class="col-sm-2 control-label">剩余数量</label>
+							<div class="col-sm-10">
+								<input type="text" id="pnumber" class="form-control" readonly="true">
+							</div>
+						</div>
+						<div class="form-group" id = "ppplace_of_production">
+							<label class="col-sm-2 control-label">原产地</label>
+							<div class="col-sm-10">
+								<input type="text" id="pplace_of_production" class="form-control" readonly="true">
+							</div>
+						</div>
+						<div class="form-group-separator"></div>
+					</form>
+					<div class="page-container">
+						<div class="main-content">
+							<script type="text/javascript">
+								jQuery(document).ready(function($)
+								{
+									// Edit Modal
+									$('.gallery-env a[data-action="edit"]').on('click', function(ev)
+									{
+										ev.preventDefault();
+										$("#gallery-image-modal").modal('show');
+									});
+								});
+							</script>
+							<section class="gallery-env">
+								<div class="row">
+									<div class="col-sm-9 gallery-right">
+										<div class="album-image">
+											<a href="#" class="thumb" data-action="edit">
+												<img id = "pphoto" src="" class="img-responsive" />
+											</a>
+											<span style="width:100%;text-align:center;display:block;">实物</span>
+										</div>
+									</div>
+								</div>
+							</section>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<!-- Gallery Modal Image -->
+	<div class="modal fade" id="gallery-image-modal">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-gallery-image">
+					<img id = "ppphoto" src="" class="img-responsive" />
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Bottom Scripts -->
+	<script src="res/js/bootstrap.min.js"></script>
+	<script src="res/js/TweenMax.min.js"></script>
+	<script src="res/js/resizeable.js"></script>
+	<script src="res/js/joinable.js"></script>
+	<script src="res/js/xenon-api.js"></script>
+	<script src="res/js/xenon-toggles.js"></script>
+
+
+	<!-- Imported scripts on this page -->
+	<script src="res/js/jquery-ui/jquery-ui.min.js"></script>
+
+
+	<!-- JavaScripts initializations and stuff -->
+	<script src="res/js/xenon-custom.js"></script>
+
+	<script type="text/javascript" language="javascript"> 
+		window.onload = function GetArgsFromHref()
+		{
+			var all_html = document.getElementById('all_html');
+			all_html.style.display = "none";
+			var sHref = window.location.href;
+			
+			var args = sHref.split("?"); 
+			var retval = ""; 
+			if(args[0] == sHref)
+			{ 
+				return retval;
+			} 
+			var str = args[1];
+			args = str.split("&");
+			var arr = new Array("pname","photo","psize","pprice","pnumber","pprime_cost","pid","pplace_of_production");
+
+			for(var i = 0; i < args.length; i++ ) 
+			{ 
+			　　str = args[i]; 
+			　　var arg = str.split("="); 
+				if (arg[0] == 'photo'){
+					var poto = document.getElementById('pphoto');
+					poto.src = arg[1];
+					var poto2 = document.getElementById('ppphoto');
+					poto2.src = arg[1];
+					continue;
+				}
+				if (arg[1] == 'NULL')
+				{
+					disappear(i);
+				} else{
+					retval = arg[1];
+					var res = document.getElementById(arr[i]);
+					res.value = retval;
+				}
+			} 
+			all_html.style.display = "block";
+			return retval; 
+		　} 
+		function disappear(i)
+		{
+			var darr = new Array("","","","","ppnumber","ppprime_cost","ppid","ppplace_of_production");
+			var dres = document.getElementById(darr[i]).style.display = "none";
+			// .visibility="hidden";
+		}
+	 </script>
+
+</body>
+</html>
